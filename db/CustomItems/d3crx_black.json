@@ -1,0 +1,41 @@
+{
+  "f514602b82d1231bd0bbedb5": {
+    "itemTplToClone": "5d5d85c586f774279a21cbdb",
+    "parentId": "5448e5284bdc2dcb718b4567",
+    "handbookParentId": "5b47574386f77428ca22b345",
+    "fleaPriceRoubles": 19592,
+    "handbookPriceRoubles": 31600,
+    "overrideProperties": {
+      "Prefab": {
+        "path": "assets/content/items/equipment/rig_d3crx/item_equipment_rig_d3crx_black.bundle",
+        "rcid": ""
+      }
+    },
+    "locales": {
+      "en": {
+        "name": "Haley Strategic D3CRX Chest Harness (Black)",
+        "shortName": "D3CRX",
+        "description": "The Haley Strategic D3CRX Combat chest rig is one of the most respected PMC rig systems. Ease and comfort of use are supported by the presence of the optimal number of pouches."
+      }
+    },
+    "addtoTraders": true,
+    "addtoBots": true,
+    "traders": {
+      "6617beeaa9cfa777ca915b7c": {
+        "cc772db3bfa7add91b379333": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 1
+          },
+          "barters": [
+            {
+              "_tpl": "5d235b4d86f7742e017bc88a",
+              "count": 7
+            }
+          ]
+        }
+      }
+    }
+  }
+}

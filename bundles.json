@@ -1,0 +1,8 @@
+{
+  "manifest": [
+    {
+      "key": "assets/content/items/equipment/rig_d3crx/item_equipment_rig_d3crx_black.bundle",
+      "dependencyKeys": ["assets/commonassets/physics/physicsmaterials.bundle","cubemaps", "shaders"]
+    }
+  ]
+}
