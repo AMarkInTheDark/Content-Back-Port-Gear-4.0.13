@@ -1,0 +1,41 @@
+{
+  "be25c2952f87b97b31da018f": {
+    "itemTplToClone": "61bcc89aef0f505f0c6cd0fc",
+    "parentId": "5448e5284bdc2dcb718b4567",
+    "handbookParentId": "5b5f6f8786f77447ed563642",
+    "fleaPriceRoubles": 43277,
+    "handbookPriceRoubles": 43277,
+    "overrideProperties": {
+      "Prefab": {
+        "path": "assets/content/items/equipment/rig_strandhogg_mltcm_blk/item_equipment_armor_strandhogg_mltcm_blk.bundle",
+        "rcid": ""
+      }
+    },
+    "locales": {
+      "en": {
+        "name": "First Spear Strandhogg plate carrier (MultiCam Black)",
+        "shortName": "Strandhogg",
+        "description": "Taking its name from an Old Norse Viking term for a lightning raid, Strandh\u00f6gg was one of the first formalized battle tactics to use covert infiltrators in advance of an actual raiding operation. Manufactured by First Spear. MultiCam Black version."
+      }
+    },
+    "addtoTraders": true,
+    "addtoBots": true,
+    "traders": {
+      "6617beeaa9cfa777ca915b7c": {
+        "9c54019ef7582e7115a9ec9c": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 1
+          },
+          "barters": [
+            {
+              "_tpl": "5d235b4d86f7742e017bc88a",
+              "count": 100
+            }
+          ]
+        }
+      }
+    }
+  }
+}

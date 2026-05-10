@@ -1,0 +1,41 @@
+{
+  "7d66dca4a711dd7c1e7eb758": {
+    "itemTplToClone": "64a536392d2c4e6e970f4121",
+    "parentId": "5448e5284bdc2dcb718b4567",
+    "handbookParentId": "5b5f6f8786f77447ed563642",
+    "fleaPriceRoubles": 32810,
+    "handbookPriceRoubles": 32810,
+    "overrideProperties": {
+      "Prefab": {
+        "path": "assets/content/items/equipment/rig_tv115/item_equipment_rig_tv115_black_bp03.bundle",
+        "rcid": ""
+      }
+    },
+    "locales": {
+      "en": {
+        "name": "WARTECH TV-115 plate carrier (Black)",
+        "shortName": "TV-115",
+        "description": "The TV-115 Operational armor system in a minimalist setup. Manufactured by WARTECH. Black version."
+      }
+    },
+    "addtoTraders": true,
+    "addtoBots": true,
+    "traders": {
+      "6617beeaa9cfa777ca915b7c": {
+        "be4f6c6ae43ff7cc6fdc78a9": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 1
+          },
+          "barters": [
+            {
+              "_tpl": "5d235b4d86f7742e017bc88a",
+              "count": 11
+            }
+          ]
+        }
+      }
+    }
+  }
+}

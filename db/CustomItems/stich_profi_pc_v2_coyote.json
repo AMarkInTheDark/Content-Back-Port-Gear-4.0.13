@@ -1,0 +1,41 @@
+{
+  "c3aa378d1846ac56052b05db": {
+    "itemTplToClone": "66b6296d7994640992013b17",
+    "parentId": "5448e5284bdc2dcb718b4567",
+    "handbookParentId": "5b5f6f8786f77447ed563642",
+    "fleaPriceRoubles": 41661,
+    "handbookPriceRoubles": 41661,
+    "overrideProperties": {
+      "Prefab": {
+        "path": "assets/content/items/equipment/rig_stich_profi_plate_carrier_v2/item_equipment_rig_stich_profi_plate_carrier_v2_coyote_bp03.bundle",
+        "rcid": ""
+      }
+    },
+    "locales": {
+      "en": {
+        "name": "Stich Profi Plate Carrier V2 (Coyote)",
+        "shortName": "SP PC V2",
+        "description": "An improved lightweight version of the standard plate carrier manufactured by Stich Profi. Coyote color version."
+      }
+    },
+    "addtoTraders": true,
+    "addtoBots": true,
+    "traders": {
+      "6617beeaa9cfa777ca915b7c": {
+        "a32c83f23c48960e23833fde": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 1
+          },
+          "barters": [
+            {
+              "_tpl": "5d235b4d86f7742e017bc88a",
+              "count": 39
+            }
+          ]
+        }
+      }
+    }
+  }
+}
