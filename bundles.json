@@ -19,6 +19,22 @@
     {
       "key": "assets/content/items/equipment/rig_thunderbolt/item_equipment_rig_thunderbolt_ranger_green_bp03.bundle",
       "dependencyKeys": ["assets/commonassets/physics/physicsmaterials.bundle","cubemaps", "shaders"]
+    },
+    {
+      "key": "assets/content/items/equipment/rig_stich_profi_plate_carrier_v2/item_equipment_rig_stich_profi_plate_carrier_v2_a-tacs_bp03.bundle",
+      "dependencyKeys": ["assets/commonassets/physics/physicsmaterials.bundle","cubemaps", "shaders"]
+    },
+    {
+      "key": "assets/content/items/equipment/rig_stich_profi_plate_carrier_v2/item_equipment_rig_stich_profi_plate_carrier_v2_coyote_bp03.bundle",
+      "dependencyKeys": ["assets/commonassets/physics/physicsmaterials.bundle","cubemaps", "shaders"]
+    },
+    {
+      "key": "assets/content/items/equipment/rig_strandhogg_mltcm_blk/item_equipment_armor_strandhogg_mltcm_blk.bundle",
+      "dependencyKeys": ["assets/commonassets/physics/physicsmaterials.bundle","cubemaps", "shaders"]
+    },
+    {
+      "key": "assets/content/items/equipment/rig_tv115/item_equipment_rig_tv115_black_bp03.bundle",
+      "dependencyKeys": ["assets/commonassets/physics/physicsmaterials.bundle","cubemaps", "shaders"]
     }
   ]
 }
