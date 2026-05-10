@@ -1,0 +1,41 @@
+{
+  "8a72df41cfc4a5449b23b396": {
+    "itemTplToClone": "5e9db13186f7742f845ee9d3",
+    "parentId": "5448e5284bdc2dcb718b4567",
+    "handbookParentId": "5b5f6f8786f77447ed563642",
+    "fleaPriceRoubles": 23715,
+    "handbookPriceRoubles": 25000,
+    "overrideProperties": {
+      "Prefab": {
+        "path": "assets/content/items/equipment/rig_bearing/item_equipment_rig_bearing_dnc_green_bp03.bundle",
+        "rcid": ""
+      }
+    },
+    "locales": {
+      "en": {
+        "name": "LBT-1961A Load Bearing Chest Rig (DNC)",
+        "shortName": "LBCR",
+        "description": "A tactical load-bearing system designed to carry magazines, grenades, and special equipment, while using low-profile body armor. Manufactured by London Bridge Trading. Desert Night Camouflage version."
+      }
+    },
+    "addtoTraders": true,
+    "addtoBots": true,
+    "traders": {
+      "6617beeaa9cfa777ca915b7c": {
+        "2eaaa43c3871ace633353b7b": {
+          "barterSettings": {
+            "loyalLevel": 4,
+            "unlimitedCount": true,
+            "stackObjectsCount": 1
+          },
+          "barters": [
+            {
+              "_tpl": "5d235b4d86f7742e017bc88a",
+              "count": 13
+            }
+          ]
+        }
+      }
+    }
+  }
+}

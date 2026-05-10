@@ -1,0 +1,41 @@
+{
+  "4f20b05426ef03a1471a2e43": {
+    "itemTplToClone": "60a6220e953894617404b00a",
+    "parentId": "5448e5284bdc2dcb718b4567",
+    "handbookParentId": "5b5f6f8786f77447ed563642",
+    "fleaPriceRoubles": 20088,
+    "handbookPriceRoubles": 55080,
+    "overrideProperties": {
+      "Prefab": {
+        "path": "assets/content/items/equipment/rig_sprofi_mk2_smg/item_equipment_rig_sprofi_mk2_smg_emr_bp03_01.bundle",
+        "rcid": ""
+      }
+    },
+    "locales": {
+      "en": {
+        "name": "Stich Profi Chest Rig MK2 (Recon, EMR)",
+        "shortName": "CR MK2 (R)",
+        "description": "The \"Chest-Rig\" tactical system can be used as an independent piece of equipment or as an addition to body armor without the MOLLE system. Suitable for combat training instructors, special forces units. Recon preset in EMR camouflage. Manufactured by Stich Profi."
+      }
+    },
+    "addtoTraders": true,
+    "addtoBots": true,
+    "traders": {
+      "6617beeaa9cfa777ca915b7c": {
+        "dd15166beb7b6320c6b4d64d": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 1
+          },
+          "barters": [
+            {
+              "_tpl": "5d235b4d86f7742e017bc88a",
+              "count": 6
+            }
+          ]
+        }
+      }
+    }
+  }
+}

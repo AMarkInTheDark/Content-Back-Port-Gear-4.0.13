@@ -3,6 +3,22 @@
     {
       "key": "assets/content/items/equipment/rig_d3crx/item_equipment_rig_d3crx_black.bundle",
       "dependencyKeys": ["assets/commonassets/physics/physicsmaterials.bundle","cubemaps", "shaders"]
+    },
+    {
+      "key": "assets/content/items/equipment/rig_bearing/item_equipment_rig_bearing_dnc_green_bp03.bundle",
+      "dependencyKeys": ["assets/commonassets/physics/physicsmaterials.bundle","cubemaps", "shaders"]
+    },
+    {
+      "key": "assets/content/items/equipment/rig_bearing/item_equipment_rig_bearing_multicam_bp03.bundle",
+      "dependencyKeys": ["assets/commonassets/physics/physicsmaterials.bundle","cubemaps", "shaders"]
+    },
+    {
+      "key": "assets/content/items/equipment/rig_sprofi_mk2_smg/item_equipment_rig_sprofi_mk2_smg_emr_bp03_01.bundle",
+      "dependencyKeys": ["assets/commonassets/physics/physicsmaterials.bundle","assets/content/characters/character/tacticalvest/cr_commando_mesh", "cubemaps", "shaders"]
+    },
+    {
+      "key": "assets/content/items/equipment/rig_thunderbolt/item_equipment_rig_thunderbolt_ranger_green_bp03.bundle",
+      "dependencyKeys": ["assets/commonassets/physics/physicsmaterials.bundle","cubemaps", "shaders"]
     }
   ]
 }
