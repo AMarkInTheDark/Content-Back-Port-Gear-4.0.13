@@ -18,7 +18,7 @@
         "description": "An improved lightweight version of the standard plate carrier manufactured by Stich Profi. Coyote color version."
       }
     },
-    "addtoTraders": true,
+    "addtoTraders": false,
     "addtoBots": true,
     "traders": {
       "6617beeaa9cfa777ca915b7c": {

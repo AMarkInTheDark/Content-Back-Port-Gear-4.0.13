@@ -18,7 +18,7 @@
         "description": "The TV-115 Operational armor system in a minimalist setup. Manufactured by WARTECH. Black version."
       }
     },
-    "addtoTraders": true,
+    "addtoTraders": false,
     "addtoBots": true,
     "traders": {
       "6617beeaa9cfa777ca915b7c": {

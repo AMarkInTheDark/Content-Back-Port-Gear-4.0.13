@@ -1,0 +1,140 @@
+{
+  "traders": {
+    "6617beeaa9cfa777ca915b7c": {
+      "items": [
+        {
+          "id": "6a174c380348b4560781c740",
+          "parentId": "hideout",
+          "slotId": "hideout",
+          "_tpl": "7d66dca4a711dd7c1e7eb758",
+          "upd": {
+            "UnlimitedCount": true,
+            "StackObjectsCount": 99999
+          },
+          "children": [
+            {
+              "id": "74ede0af7820aa81f03acc64",
+              "parentId": "6a174c380348b4560781c740",
+              "slotId": "Front_plate",
+              "_tpl": "656fac30c6baea13cd07e10c"
+            },
+            {
+              "id": "37e570d67b3ec422edbbd39f",
+              "parentId": "6a174c380348b4560781c740",
+              "slotId": "Back_plate",
+              "_tpl": "656fac30c6baea13cd07e10c"
+            }
+          ],
+          "barterScheme": [
+            [
+              {
+                "_tpl": "5d235b4d86f7742e017bc88a",
+                "count": 11
+              }
+            ]
+          ],
+          "loyaltyLevel": 2
+        },
+        {
+          "id": "eb121861f748fc56d49bb20a",
+          "parentId": "hideout",
+          "slotId": "hideout",
+          "_tpl": "be25c2952f87b97b31da018f",
+          "upd": {
+            "UnlimitedCount": true,
+            "StackObjectsCount": 99999
+          },
+          "children": [
+            {
+              "id": "03f76031c6effa94c1a51ac5",
+              "parentId": "eb121861f748fc56d49bb20a",
+              "slotId": "Front_plate",
+              "_tpl": "656fb21fa0dce000a2020f7c"
+            },
+            {
+              "id": "3b24755cc4a9b52a13fd80dd",
+              "parentId": "eb121861f748fc56d49bb20a",
+              "slotId": "Back_plate",
+              "_tpl": "656fb21fa0dce000a2020f7c"
+            }
+          ],
+          "barterScheme": [
+            [
+              {
+                "_tpl": "5d235b4d86f7742e017bc88a",
+                "count": 100
+              }
+            ]
+          ],
+          "loyaltyLevel": 3
+        },
+        {
+          "id": "0b4e42c7afd24720cdb0e3d2",
+          "parentId": "hideout",
+          "slotId": "hideout",
+          "_tpl": "6cd8bbbcdfb5fe04a264517a",
+          "upd": {
+            "UnlimitedCount": true,
+            "StackObjectsCount": 99999
+          },
+          "children": [
+            {
+              "id": "bc1bfb1b186333ffc283202a",
+              "parentId": "0b4e42c7afd24720cdb0e3d2",
+              "slotId": "Front_plate",
+              "_tpl": "656fa0fb498d1b7e3e071d9c"
+            },
+            {
+              "id": "fbadffce556a45244613dc1e",
+              "parentId": "0b4e42c7afd24720cdb0e3d2",
+              "slotId": "Back_plate",
+              "_tpl": "656fa0fb498d1b7e3e071d9c"
+            }
+          ],
+          "barterScheme": [
+            [
+              {
+                "_tpl": "5d235b4d86f7742e017bc88a",
+                "count": 39
+              }
+            ]
+          ],
+          "loyaltyLevel": 3
+        },
+        {
+          "id": "01287950384b2b9d2399117f",
+          "parentId": "hideout",
+          "slotId": "hideout",
+          "_tpl": "c3aa378d1846ac56052b05db",
+          "upd": {
+            "UnlimitedCount": true,
+            "StackObjectsCount": 99999
+          },
+          "children": [
+            {
+              "id": "03136455e08917bd75d7d9af",
+              "parentId": "01287950384b2b9d2399117f",
+              "slotId": "Front_plate",
+              "_tpl": "656fa0fb498d1b7e3e071d9c"
+            },
+            {
+              "id": "d6af0d5e86d1fae69f7d44aa",
+              "parentId": "01287950384b2b9d2399117f",
+              "slotId": "Back_plate",
+              "_tpl": "656fa0fb498d1b7e3e071d9c"
+            }
+          ],
+          "barterScheme": [
+            [
+              {
+                "_tpl": "5d235b4d86f7742e017bc88a",
+                "count": 39
+              }
+            ]
+          ],
+          "loyaltyLevel": 3
+        }
+      ]
+    }
+  }
+}

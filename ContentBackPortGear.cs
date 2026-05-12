@@ -11,6 +11,7 @@ public class ContentBackPortGear(
     {
         var assembly = Assembly.GetExecutingAssembly();
         await wttCommon.CustomItemServiceExtended.CreateCustomItems(assembly);
+        await wttCommon.CustomAssortSchemeService.CreateCustomAssortSchemes(assembly);
         await Task.CompletedTask;
     }
 }

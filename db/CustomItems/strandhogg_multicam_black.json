@@ -18,7 +18,7 @@
         "description": "Taking its name from an Old Norse Viking term for a lightning raid, Strandh\u00f6gg was one of the first formalized battle tactics to use covert infiltrators in advance of an actual raiding operation. Manufactured by First Spear. MultiCam Black version."
       }
     },
-    "addtoTraders": true,
+    "addtoTraders": false,
     "addtoBots": true,
     "traders": {
       "6617beeaa9cfa777ca915b7c": {
