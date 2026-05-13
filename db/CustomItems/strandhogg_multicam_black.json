@@ -24,7 +24,7 @@
     "addWeaponPreset": true,
     "weaponPresets": [
       {
-        "_id": "eb0fa7914ad6b2b67556651e",
+        "_id": "c9349a41fc0840ee7a62d2a9",
         "_type": "Preset",
         "_changeWeaponName": false,
         "_name": "First Spear Strandhogg plate carrier (MultiCam Black)",
@@ -32,20 +32,50 @@
         "_encyclopedia": "be25c2952f87b97b31da018f",
         "_items": [
           {
-            "_id": "9765ca7241717484c3943679",
+            "_id": "7a4293ca5840d0d0c74b3e6b",
             "_tpl": "be25c2952f87b97b31da018f"
           },
           {
-            "_id": "1d53ef3956ee4d300858f049",
+            "_id": "f092db236351f305a2a77e19",
             "_tpl": "656fb21fa0dce000a2020f7c",
-            "parentId": "9765ca7241717484c3943679",
+            "parentId": "7a4293ca5840d0d0c74b3e6b",
             "slotId": "Front_plate"
           },
           {
-            "_id": "52d93ae8338322f960493357",
+            "_id": "df5108ef72b3f40e42169ff2",
             "_tpl": "656fb21fa0dce000a2020f7c",
-            "parentId": "9765ca7241717484c3943679",
+            "parentId": "7a4293ca5840d0d0c74b3e6b",
             "slotId": "Back_plate"
+          },
+          {
+            "_id": "d3787d3975737aac035d87d7",
+            "_tpl": "6572eb0e55beba16bc04079f",
+            "parentId": "7a4293ca5840d0d0c74b3e6b",
+            "slotId": "Soft_armor_front"
+          },
+          {
+            "_id": "24e6844ba0eb4d0c75920797",
+            "_tpl": "6572eb1b04ee6483ef039882",
+            "parentId": "7a4293ca5840d0d0c74b3e6b",
+            "slotId": "Soft_armor_back"
+          },
+          {
+            "_id": "180fdd3051b1ef5dc9801355",
+            "_tpl": "6572eb3004ee6483ef039886",
+            "parentId": "7a4293ca5840d0d0c74b3e6b",
+            "slotId": "Soft_armor_left"
+          },
+          {
+            "_id": "637174832f23faa06562c3ce",
+            "_tpl": "6572eb3b04ee6483ef03988a",
+            "parentId": "7a4293ca5840d0d0c74b3e6b",
+            "slotId": "soft_armor_right"
+          },
+          {
+            "_id": "bcef27a69152a39577846645",
+            "_tpl": "6572eb865b5eac12f10a03ee",
+            "parentId": "7a4293ca5840d0d0c74b3e6b",
+            "slotId": "Groin"
           }
         ]
       }

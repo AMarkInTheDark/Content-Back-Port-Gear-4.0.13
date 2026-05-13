@@ -24,7 +24,7 @@
     "addWeaponPreset": true,
     "weaponPresets": [
       {
-        "_id": "b5ee8b5b082d9d9fb23d08f8",
+        "_id": "d0384dec6ca38a1668a9163f",
         "_type": "Preset",
         "_changeWeaponName": false,
         "_name": "Stich Profi Plate Carrier V2 (A-TACS FG)",
@@ -32,20 +32,50 @@
         "_encyclopedia": "6cd8bbbcdfb5fe04a264517a",
         "_items": [
           {
-            "_id": "4fe8cbb03caa9b815b26d0fd",
+            "_id": "d2a1655a11e6b0704aedc057",
             "_tpl": "6cd8bbbcdfb5fe04a264517a"
           },
           {
-            "_id": "17fcfa487a487ce816788b0f",
+            "_id": "5fb36c6f7202b19adc52e94d",
             "_tpl": "656fa0fb498d1b7e3e071d9c",
-            "parentId": "4fe8cbb03caa9b815b26d0fd",
+            "parentId": "d2a1655a11e6b0704aedc057",
             "slotId": "Front_plate"
           },
           {
-            "_id": "14dbfd15d6a0b591ba5a60b5",
+            "_id": "98157a1fc20f48c68b44b316",
             "_tpl": "656fa0fb498d1b7e3e071d9c",
-            "parentId": "4fe8cbb03caa9b815b26d0fd",
+            "parentId": "d2a1655a11e6b0704aedc057",
             "slotId": "Back_plate"
+          },
+          {
+            "_id": "246044b5a1cd0328c4cde30b",
+            "_tpl": "66b884f4c5d72b02774886eb",
+            "parentId": "d2a1655a11e6b0704aedc057",
+            "slotId": "Soft_armor_front"
+          },
+          {
+            "_id": "581d1fdf1c66ea71c197d061",
+            "_tpl": "66b884eaacff495a29492849",
+            "parentId": "d2a1655a11e6b0704aedc057",
+            "slotId": "Soft_armor_back"
+          },
+          {
+            "_id": "b172abfa53371c7210a9bb0c",
+            "_tpl": "66b8851678bbc0200425fa03",
+            "parentId": "d2a1655a11e6b0704aedc057",
+            "slotId": "Soft_armor_left"
+          },
+          {
+            "_id": "d0bde989fb79c530eb168f73",
+            "_tpl": "66b88521a7f72d197e70be3b",
+            "parentId": "d2a1655a11e6b0704aedc057",
+            "slotId": "soft_armor_right"
+          },
+          {
+            "_id": "8ffb7bc5d7cadc0ffdc3ad7d",
+            "_tpl": "66b884fd7994640992013b37",
+            "parentId": "d2a1655a11e6b0704aedc057",
+            "slotId": "Groin"
           }
         ]
       }
