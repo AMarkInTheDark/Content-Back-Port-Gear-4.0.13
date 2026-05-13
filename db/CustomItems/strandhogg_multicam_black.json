@@ -20,22 +20,35 @@
     },
     "addtoTraders": false,
     "addtoBots": true,
-    "traders": {
-      "6617beeaa9cfa777ca915b7c": {
-        "9c54019ef7582e7115a9ec9c": {
-          "barterSettings": {
-            "loyalLevel": 3,
-            "unlimitedCount": true,
-            "stackObjectsCount": 1
+    "traders": {},
+    "addWeaponPreset": true,
+    "weaponPresets": [
+      {
+        "_id": "eb0fa7914ad6b2b67556651e",
+        "_type": "Preset",
+        "_changeWeaponName": false,
+        "_name": "First Spear Strandhogg plate carrier (MultiCam Black)",
+        "_parent": "be25c2952f87b97b31da018f",
+        "_encyclopedia": "be25c2952f87b97b31da018f",
+        "_items": [
+          {
+            "_id": "9765ca7241717484c3943679",
+            "_tpl": "be25c2952f87b97b31da018f"
           },
-          "barters": [
-            {
-              "_tpl": "5d235b4d86f7742e017bc88a",
-              "count": 100
-            }
-          ]
-        }
+          {
+            "_id": "1d53ef3956ee4d300858f049",
+            "_tpl": "656fb21fa0dce000a2020f7c",
+            "parentId": "9765ca7241717484c3943679",
+            "slotId": "Front_plate"
+          },
+          {
+            "_id": "52d93ae8338322f960493357",
+            "_tpl": "656fb21fa0dce000a2020f7c",
+            "parentId": "9765ca7241717484c3943679",
+            "slotId": "Back_plate"
+          }
+        ]
       }
-    }
+    ]
   }
 }

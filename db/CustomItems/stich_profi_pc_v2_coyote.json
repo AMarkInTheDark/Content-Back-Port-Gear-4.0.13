@@ -20,22 +20,35 @@
     },
     "addtoTraders": false,
     "addtoBots": true,
-    "traders": {
-      "6617beeaa9cfa777ca915b7c": {
-        "a32c83f23c48960e23833fde": {
-          "barterSettings": {
-            "loyalLevel": 3,
-            "unlimitedCount": true,
-            "stackObjectsCount": 1
+    "traders": {},
+    "addWeaponPreset": true,
+    "weaponPresets": [
+      {
+        "_id": "a0dc894309dbaa8c86419041",
+        "_type": "Preset",
+        "_changeWeaponName": false,
+        "_name": "Stich Profi Plate Carrier V2 (Coyote)",
+        "_parent": "c3aa378d1846ac56052b05db",
+        "_encyclopedia": "c3aa378d1846ac56052b05db",
+        "_items": [
+          {
+            "_id": "201e90d688fbee7437cbe0e0",
+            "_tpl": "c3aa378d1846ac56052b05db"
           },
-          "barters": [
-            {
-              "_tpl": "5d235b4d86f7742e017bc88a",
-              "count": 39
-            }
-          ]
-        }
+          {
+            "_id": "57d1d71be401d9af2d64d04f",
+            "_tpl": "656fa0fb498d1b7e3e071d9c",
+            "parentId": "201e90d688fbee7437cbe0e0",
+            "slotId": "Front_plate"
+          },
+          {
+            "_id": "cbbc7f241a3e43e35bb9286b",
+            "_tpl": "656fa0fb498d1b7e3e071d9c",
+            "parentId": "201e90d688fbee7437cbe0e0",
+            "slotId": "Back_plate"
+          }
+        ]
       }
-    }
+    ]
   }
 }

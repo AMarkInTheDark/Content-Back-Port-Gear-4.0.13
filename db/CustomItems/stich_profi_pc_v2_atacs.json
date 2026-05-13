@@ -20,22 +20,35 @@
     },
     "addtoTraders": false,
     "addtoBots": true,
-    "traders": {
-      "6617beeaa9cfa777ca915b7c": {
-        "5705427bce9e04f4569a5bf6": {
-          "barterSettings": {
-            "loyalLevel": 3,
-            "unlimitedCount": true,
-            "stackObjectsCount": 1
+    "traders": {},
+    "addWeaponPreset": true,
+    "weaponPresets": [
+      {
+        "_id": "b5ee8b5b082d9d9fb23d08f8",
+        "_type": "Preset",
+        "_changeWeaponName": false,
+        "_name": "Stich Profi Plate Carrier V2 (A-TACS FG)",
+        "_parent": "6cd8bbbcdfb5fe04a264517a",
+        "_encyclopedia": "6cd8bbbcdfb5fe04a264517a",
+        "_items": [
+          {
+            "_id": "4fe8cbb03caa9b815b26d0fd",
+            "_tpl": "6cd8bbbcdfb5fe04a264517a"
           },
-          "barters": [
-            {
-              "_tpl": "5d235b4d86f7742e017bc88a",
-              "count": 39
-            }
-          ]
-        }
+          {
+            "_id": "17fcfa487a487ce816788b0f",
+            "_tpl": "656fa0fb498d1b7e3e071d9c",
+            "parentId": "4fe8cbb03caa9b815b26d0fd",
+            "slotId": "Front_plate"
+          },
+          {
+            "_id": "14dbfd15d6a0b591ba5a60b5",
+            "_tpl": "656fa0fb498d1b7e3e071d9c",
+            "parentId": "4fe8cbb03caa9b815b26d0fd",
+            "slotId": "Back_plate"
+          }
+        ]
       }
-    }
+    ]
   }
 }

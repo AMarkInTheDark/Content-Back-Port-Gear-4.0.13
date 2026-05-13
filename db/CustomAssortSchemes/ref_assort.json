@@ -2,7 +2,7 @@
   "6617beeaa9cfa777ca915b7c": {
     "items": [
       {
-        "_id": "b613e31ec4dd2ee7b001f456",
+        "_id": "ce45879e93a5619d903057d7",
         "_tpl": "7d66dca4a711dd7c1e7eb758",
         "parentId": "hideout",
         "slotId": "hideout",
@@ -12,19 +12,19 @@
         }
       },
       {
-        "_id": "fa5d4729dd80acf94499570a",
+        "_id": "76d345f372b630b0f2058bda",
         "_tpl": "656fac30c6baea13cd07e10c",
-        "parentId": "b613e31ec4dd2ee7b001f456",
+        "parentId": "ce45879e93a5619d903057d7",
         "slotId": "Front_plate"
       },
       {
-        "_id": "bb0c9018f63409603289eb23",
+        "_id": "0b41cc109d17135f4315ea8f",
         "_tpl": "656fac30c6baea13cd07e10c",
-        "parentId": "b613e31ec4dd2ee7b001f456",
+        "parentId": "ce45879e93a5619d903057d7",
         "slotId": "Back_plate"
       },
       {
-        "_id": "5952325c2f7a202cb1f39ef9",
+        "_id": "6a856ffd875f1a54da01ab87",
         "_tpl": "be25c2952f87b97b31da018f",
         "parentId": "hideout",
         "slotId": "hideout",
@@ -34,19 +34,19 @@
         }
       },
       {
-        "_id": "d5bd858186c1cea2b30a15f3",
+        "_id": "ad2ad1fab5d01e0a8d3ff6a6",
         "_tpl": "656fb21fa0dce000a2020f7c",
-        "parentId": "5952325c2f7a202cb1f39ef9",
+        "parentId": "6a856ffd875f1a54da01ab87",
         "slotId": "Front_plate"
       },
       {
-        "_id": "ce458e95eebc71ad0e6c631a",
+        "_id": "9ae9c970d3968bf46e77c385",
         "_tpl": "656fb21fa0dce000a2020f7c",
-        "parentId": "5952325c2f7a202cb1f39ef9",
+        "parentId": "6a856ffd875f1a54da01ab87",
         "slotId": "Back_plate"
       },
       {
-        "_id": "a2d8d5e1c61aff277a864967",
+        "_id": "eb3af9363678e8b9ed849481",
         "_tpl": "6cd8bbbcdfb5fe04a264517a",
         "parentId": "hideout",
         "slotId": "hideout",
@@ -56,19 +56,19 @@
         }
       },
       {
-        "_id": "70cc8336bd597f8778a3d857",
+        "_id": "99f05da132e2e9163e727cf0",
         "_tpl": "656fa0fb498d1b7e3e071d9c",
-        "parentId": "a2d8d5e1c61aff277a864967",
+        "parentId": "eb3af9363678e8b9ed849481",
         "slotId": "Front_plate"
       },
       {
-        "_id": "e4092f89713866c86b4d8a58",
+        "_id": "bffdc8f1f83307991b36982a",
         "_tpl": "656fa0fb498d1b7e3e071d9c",
-        "parentId": "a2d8d5e1c61aff277a864967",
+        "parentId": "eb3af9363678e8b9ed849481",
         "slotId": "Back_plate"
       },
       {
-        "_id": "906075ec1eae3a5732deb02f",
+        "_id": "7f5824a619768dbb48e6c295",
         "_tpl": "c3aa378d1846ac56052b05db",
         "parentId": "hideout",
         "slotId": "hideout",
@@ -78,20 +78,20 @@
         }
       },
       {
-        "_id": "32dc58c97a495741b0b493a0",
+        "_id": "a5cd3fa76ff1269ef37b79db",
         "_tpl": "656fa0fb498d1b7e3e071d9c",
-        "parentId": "906075ec1eae3a5732deb02f",
+        "parentId": "7f5824a619768dbb48e6c295",
         "slotId": "Front_plate"
       },
       {
-        "_id": "81c3216aefb177dd989c5483",
+        "_id": "d2c8df636717a17cb196f9d8",
         "_tpl": "656fa0fb498d1b7e3e071d9c",
-        "parentId": "906075ec1eae3a5732deb02f",
+        "parentId": "7f5824a619768dbb48e6c295",
         "slotId": "Back_plate"
       }
     ],
     "barter_scheme": {
-      "b613e31ec4dd2ee7b001f456": [
+      "ce45879e93a5619d903057d7": [
         [
           {
             "_tpl": "5d235b4d86f7742e017bc88a",
@@ -99,7 +99,7 @@
           }
         ]
       ],
-      "5952325c2f7a202cb1f39ef9": [
+      "6a856ffd875f1a54da01ab87": [
         [
           {
             "_tpl": "5d235b4d86f7742e017bc88a",
@@ -107,7 +107,7 @@
           }
         ]
       ],
-      "a2d8d5e1c61aff277a864967": [
+      "eb3af9363678e8b9ed849481": [
         [
           {
             "_tpl": "5d235b4d86f7742e017bc88a",
@@ -115,7 +115,7 @@
           }
         ]
       ],
-      "906075ec1eae3a5732deb02f": [
+      "7f5824a619768dbb48e6c295": [
         [
           {
             "_tpl": "5d235b4d86f7742e017bc88a",
@@ -125,10 +125,10 @@
       ]
     },
     "loyal_level_items": {
-      "b613e31ec4dd2ee7b001f456": 2,
-      "5952325c2f7a202cb1f39ef9": 3,
-      "a2d8d5e1c61aff277a864967": 3,
-      "906075ec1eae3a5732deb02f": 3
+      "ce45879e93a5619d903057d7": 2,
+      "6a856ffd875f1a54da01ab87": 3,
+      "eb3af9363678e8b9ed849481": 3,
+      "7f5824a619768dbb48e6c295": 3
     }
   }
 }
