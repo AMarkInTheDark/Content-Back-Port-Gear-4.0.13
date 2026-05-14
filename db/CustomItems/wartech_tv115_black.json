@@ -24,42 +24,42 @@
     "addWeaponPreset": true,
     "weaponPresets": [
       {
-        "_id": "50c15c8a7d44ad480c9d38d4",
+        "_id": "438561768e5d92dee17c1a17",
         "_type": "Preset",
         "_changeWeaponName": false,
         "_name": "WARTECH TV-115 plate carrier (Black)",
-        "_parent": "7d66dca4a711dd7c1e7eb758",
-        "_encyclopedia": "7d66dca4a711dd7c1e7eb758",
+        "_parent": "93dee206a1b0e0ee75fb468c",
         "_items": [
           {
-            "_id": "394502123dd644047b8eac58",
+            "_id": "93dee206a1b0e0ee75fb468c",
             "_tpl": "7d66dca4a711dd7c1e7eb758"
           },
           {
-            "_id": "1ffa1dd24d62cac5fdb2eb26",
-            "_tpl": "656fac30c6baea13cd07e10c",
-            "parentId": "394502123dd644047b8eac58",
-            "slotId": "Front_plate"
-          },
-          {
-            "_id": "2b3a479227d72ed80918c16d",
-            "_tpl": "656fac30c6baea13cd07e10c",
-            "parentId": "394502123dd644047b8eac58",
-            "slotId": "Back_plate"
-          },
-          {
-            "_id": "a3e0a34b6c1c388cf9165ad1",
+            "_id": "10ed56bbe50cf5f239e41f8c",
             "_tpl": "6570653e89fd4926380b733e",
-            "parentId": "394502123dd644047b8eac58",
+            "parentId": "93dee206a1b0e0ee75fb468c",
             "slotId": "Soft_armor_front"
           },
           {
-            "_id": "3eb3cc0eb75fedca8af59a83",
+            "_id": "f79227db9db3ad1373ca5dec",
             "_tpl": "6570658a89fd4926380b7346",
-            "parentId": "394502123dd644047b8eac58",
+            "parentId": "93dee206a1b0e0ee75fb468c",
             "slotId": "Soft_armor_back"
+          },
+          {
+            "_id": "c7161b32427c98a596fc8aff",
+            "_tpl": "656fac30c6baea13cd07e10c",
+            "parentId": "93dee206a1b0e0ee75fb468c",
+            "slotId": "Front_plate"
+          },
+          {
+            "_id": "20dbb12ca5b034dfacee3944",
+            "_tpl": "656fac30c6baea13cd07e10c",
+            "parentId": "93dee206a1b0e0ee75fb468c",
+            "slotId": "Back_plate"
           }
-        ]
+        ],
+        "_encyclopedia": "7d66dca4a711dd7c1e7eb758"
       }
     ]
   }

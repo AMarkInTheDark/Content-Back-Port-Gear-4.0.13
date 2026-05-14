@@ -24,60 +24,60 @@
     "addWeaponPreset": true,
     "weaponPresets": [
       {
-        "_id": "d0384dec6ca38a1668a9163f",
+        "_id": "667efe6cef47dd0f277cb025",
         "_type": "Preset",
         "_changeWeaponName": false,
         "_name": "Stich Profi Plate Carrier V2 (A-TACS FG)",
-        "_parent": "6cd8bbbcdfb5fe04a264517a",
-        "_encyclopedia": "6cd8bbbcdfb5fe04a264517a",
+        "_parent": "03497f8b9e24ac34cfc48431",
         "_items": [
           {
-            "_id": "d2a1655a11e6b0704aedc057",
+            "_id": "03497f8b9e24ac34cfc48431",
             "_tpl": "6cd8bbbcdfb5fe04a264517a"
           },
           {
-            "_id": "5fb36c6f7202b19adc52e94d",
-            "_tpl": "656fa0fb498d1b7e3e071d9c",
-            "parentId": "d2a1655a11e6b0704aedc057",
-            "slotId": "Front_plate"
-          },
-          {
-            "_id": "98157a1fc20f48c68b44b316",
-            "_tpl": "656fa0fb498d1b7e3e071d9c",
-            "parentId": "d2a1655a11e6b0704aedc057",
-            "slotId": "Back_plate"
-          },
-          {
-            "_id": "246044b5a1cd0328c4cde30b",
+            "_id": "d7ef22bf624d45c86c435286",
             "_tpl": "66b884f4c5d72b02774886eb",
-            "parentId": "d2a1655a11e6b0704aedc057",
+            "parentId": "03497f8b9e24ac34cfc48431",
             "slotId": "Soft_armor_front"
           },
           {
-            "_id": "581d1fdf1c66ea71c197d061",
+            "_id": "d35093dd46e23e8b1cc7f642",
             "_tpl": "66b884eaacff495a29492849",
-            "parentId": "d2a1655a11e6b0704aedc057",
+            "parentId": "03497f8b9e24ac34cfc48431",
             "slotId": "Soft_armor_back"
           },
           {
-            "_id": "b172abfa53371c7210a9bb0c",
+            "_id": "a857a8fffd14a3e1c4a98ea6",
             "_tpl": "66b8851678bbc0200425fa03",
-            "parentId": "d2a1655a11e6b0704aedc057",
+            "parentId": "03497f8b9e24ac34cfc48431",
             "slotId": "Soft_armor_left"
           },
           {
-            "_id": "d0bde989fb79c530eb168f73",
+            "_id": "120f772884ed14fac53fea73",
             "_tpl": "66b88521a7f72d197e70be3b",
-            "parentId": "d2a1655a11e6b0704aedc057",
+            "parentId": "03497f8b9e24ac34cfc48431",
             "slotId": "soft_armor_right"
           },
           {
-            "_id": "8ffb7bc5d7cadc0ffdc3ad7d",
+            "_id": "944d8a6a22d5c61a0629b52d",
             "_tpl": "66b884fd7994640992013b37",
-            "parentId": "d2a1655a11e6b0704aedc057",
+            "parentId": "03497f8b9e24ac34cfc48431",
             "slotId": "Groin"
+          },
+          {
+            "_id": "18a34d1592e44d02c0059ded",
+            "_tpl": "656fa0fb498d1b7e3e071d9c",
+            "parentId": "03497f8b9e24ac34cfc48431",
+            "slotId": "Front_plate"
+          },
+          {
+            "_id": "f95eafdbbb78163d1c9f50bf",
+            "_tpl": "656fa0fb498d1b7e3e071d9c",
+            "parentId": "03497f8b9e24ac34cfc48431",
+            "slotId": "Back_plate"
           }
-        ]
+        ],
+        "_encyclopedia": "6cd8bbbcdfb5fe04a264517a"
       }
     ]
   }
