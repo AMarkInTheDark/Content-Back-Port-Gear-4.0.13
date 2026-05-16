@@ -1,0 +1,41 @@
+{
+  "897f80e478fc9d679ed2c045": {
+    "itemTplToClone": "5a16b8a9fcdbcb00165aa6ca",
+    "parentId": "5a341c4086f77401f2541505",
+    "handbookParentId": "5b5f755f86f77447ec5d770e",
+    "fleaPriceRoubles": 0,
+    "handbookPriceRoubles": 3551,
+    "overrideProperties": {
+      "Prefab": {
+        "path": "assets/content/items/equipment/nvg_usgi_an_avs_69_adapter/nvg_usgi_an_avs_69_adapter.bundle",
+        "rcid": ""
+      }
+    },
+    "locales": {
+      "en": {
+        "name": "AN/AVS-6&9 NVG mount",
+        "shortName": "AVS6&9",
+        "description": "An old USGI adapter mount for installing AN/AVS-6 and AN/AVS-9 night vision goggles, used by US Forces in the 1980s. Wonder how this ancient thing turned up in Tarkov."
+      }
+    },
+    "addtoTraders": true,
+    "addtoBots": true,
+    "traders": {
+      "6617beeaa9cfa777ca915b7c": {
+        "0ffd83ded915d5a2a7ea22ab": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 1
+          },
+          "barters": [
+            {
+              "_tpl": "5d235b4d86f7742e017bc88a",
+              "count": 20
+            }
+          ]
+        }
+      }
+    }
+  }
+}

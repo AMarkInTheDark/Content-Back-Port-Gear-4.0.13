@@ -1,0 +1,41 @@
+{
+  "82b6ef49921d1b959bf2da4e": {
+    "itemTplToClone": "5c17a7ed2e2216152142459c",
+    "parentId": "5a341c4086f77401f2541505",
+    "handbookParentId": "5b47574386f77428ca22b330",
+    "fleaPriceRoubles": 0,
+    "handbookPriceRoubles": 87457,
+    "overrideProperties": {
+      "Prefab": {
+        "path": "assets/content/items/equipment/helmet_crye_airframe/item_equipment_helmet_crye_airframe_shark_bp03.bundle",
+        "rcid": ""
+      }
+    },
+    "locales": {
+      "en": {
+        "name": "Crye Precision AirFrame helmet (Shark)",
+        "shortName": "AirFrame",
+        "description": "The AirFrame ballistic helmet sets the standards in protection, comfort, and modularity. Manufactured by Crye Precision. Shark version."
+      }
+    },
+    "addtoTraders": true,
+    "addtoBots": true,
+    "traders": {
+      "6617beeaa9cfa777ca915b7c": {
+        "c3a711b58f6f859e7849e427": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 1
+          },
+          "barters": [
+            {
+              "_tpl": "5d235b4d86f7742e017bc88a",
+              "count": 18
+            }
+          ]
+        }
+      }
+    }
+  }
+}

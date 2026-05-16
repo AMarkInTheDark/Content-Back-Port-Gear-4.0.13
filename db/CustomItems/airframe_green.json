@@ -1,0 +1,41 @@
+{
+  "2701d92dc5ba95bd27bfa152": {
+    "itemTplToClone": "5c17a7ed2e2216152142459c",
+    "parentId": "5a341c4086f77401f2541505",
+    "handbookParentId": "5b47574386f77428ca22b330",
+    "fleaPriceRoubles": 0,
+    "handbookPriceRoubles": 87457,
+    "overrideProperties": {
+      "Prefab": {
+        "path": "assets/content/items/equipment/helmet_crye_airframe/item_equipment_helmet_crye_airframe_mesh_green_bp03.bundle",
+        "rcid": ""
+      }
+    },
+    "locales": {
+      "en": {
+        "name": "Crye Precision AirFrame helmet (Mesh Green)",
+        "shortName": "AirFrame",
+        "description": "The AirFrame ballistic helmet sets the standards in protection, comfort, and modularity. Manufactured by Crye Precision. Mesh Green version."
+      }
+    },
+    "addtoTraders": true,
+    "addtoBots": true,
+    "traders": {
+      "6617beeaa9cfa777ca915b7c": {
+        "58badf603e9a52a03e5a0a57": {
+          "barterSettings": {
+            "loyalLevel": 4,
+            "unlimitedCount": true,
+            "stackObjectsCount": 1
+          },
+          "barters": [
+            {
+              "_tpl": "5d235b4d86f7742e017bc88a",
+              "count": 18
+            }
+          ]
+        }
+      }
+    }
+  }
+}
