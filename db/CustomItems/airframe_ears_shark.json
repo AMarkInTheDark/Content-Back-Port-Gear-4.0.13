@@ -1,0 +1,41 @@
+{
+  "676b68ac3eb36e768cce6b21": {
+    "itemTplToClone": "5c1793902e221602b21d3de2",
+    "parentId": "57bef4c42459772e8d35a53b",
+    "handbookParentId": "5b5f704686f77447ec5d76d7",
+    "fleaPriceRoubles": 0,
+    "handbookPriceRoubles": 48125,
+    "overrideProperties": {
+      "Prefab": {
+        "path": "assets/content/items/equipment/helmet_crye_airframe_chops/item_equipment_helmet_crye_airframe_ears_shark_bp03.bundle",
+        "rcid": ""
+      }
+    },
+    "locales": {
+      "en": {
+        "name": "Crye Precision AirFrame Ears (Shark)",
+        "shortName": "AF Ears",
+        "description": "An additional armor module for the Crye Precision AirFrame helmet, which protects the ear area from fragmentation and small-caliber ricochets. Custom painted with a shark teeth pattern."
+      }
+    },
+    "addtoTraders": true,
+    "addtoBots": true,
+    "traders": {
+      "6617beeaa9cfa777ca915b7c": {
+        "6c18e8b889f220c21db9eb8d": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 1
+          },
+          "barters": [
+            {
+              "_tpl": "5d235b4d86f7742e017bc88a",
+              "count": 6
+            }
+          ]
+        }
+      }
+    }
+  }
+}

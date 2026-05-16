@@ -22,7 +22,7 @@
     "addtoBots": true,
     "traders": {
       "6617beeaa9cfa777ca915b7c": {
-        "bc5e3445e157b8001b9e67d7": {
+        "83278144bcccd19a61b8acd1": {
           "barterSettings": {
             "loyalLevel": 4,
             "unlimitedCount": true,
@@ -36,6 +36,35 @@
           ]
         }
       }
-    }
+    },
+    "addWeaponPreset": true,
+    "weaponPresets": [
+      {
+        "_id": "bd3e7f7e00793696898ff435",
+        "_type": "Preset",
+        "_changeWeaponName": false,
+        "_name": "Crye Precision AirFrame M-LOK helmet (Black)",
+        "_parent": "78e10a301d6a64a03a53e210",
+        "_items": [
+          {
+            "_id": "78e10a301d6a64a03a53e210",
+            "_tpl": "df3580f7a8349c9db18ad000"
+          },
+          {
+            "_id": "3521d39b5505d8af6392ba69",
+            "_tpl": "657f9897f4c82973640b235e",
+            "parentId": "78e10a301d6a64a03a53e210",
+            "slotId": "Helmet_top"
+          },
+          {
+            "_id": "33581d8c9aab5eecf00c32d1",
+            "_tpl": "657f98fbada5fadd1f07a585",
+            "parentId": "78e10a301d6a64a03a53e210",
+            "slotId": "Helmet_back"
+          }
+        ],
+        "_encyclopedia": "df3580f7a8349c9db18ad000"
+      }
+    ]
   }
 }

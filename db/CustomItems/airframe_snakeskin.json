@@ -15,14 +15,14 @@
       "en": {
         "name": "Crye Precision AirFrame helmet (Snake Skin)",
         "shortName": "AirFrame",
-        "description": "The AirFrame ballistic helmet sets the standards in protection, comfort, and modularity. Manufactured by Crye Precision. Snake Skin version."
+        "description": "The AirFrame ballistic helmet sets the standards in protection, comfort, and modularity. The unique overlapping shell design of the AirFrame creates an integrated vent that provides passive cooling and can reduce the damaging effects of explosive blast waves. Manufactured by Crye Precision. Snake sprayed version."
       }
     },
     "addtoTraders": true,
     "addtoBots": true,
     "traders": {
       "6617beeaa9cfa777ca915b7c": {
-        "0ecaefa3ebfd7f1697c56da3": {
+        "bf71f5f7f3489e1731bd4f7f": {
           "barterSettings": {
             "loyalLevel": 4,
             "unlimitedCount": true,
@@ -36,6 +36,35 @@
           ]
         }
       }
-    }
+    },
+    "addWeaponPreset": true,
+    "weaponPresets": [
+      {
+        "_id": "3dc01b7b88a7727946e96e8b",
+        "_type": "Preset",
+        "_changeWeaponName": false,
+        "_name": "Crye Precision AirFrame helmet (Snake Skin)",
+        "_parent": "fa0a1eea7a6467bc50c4b6a5",
+        "_items": [
+          {
+            "_id": "fa0a1eea7a6467bc50c4b6a5",
+            "_tpl": "5b7196b5f3bfa50f2f6a2b55"
+          },
+          {
+            "_id": "4332918557e28fad6dc72e3f",
+            "_tpl": "657f9897f4c82973640b235e",
+            "parentId": "fa0a1eea7a6467bc50c4b6a5",
+            "slotId": "Helmet_top"
+          },
+          {
+            "_id": "249a1b9ad55b05b5f33ae406",
+            "_tpl": "657f98fbada5fadd1f07a585",
+            "parentId": "fa0a1eea7a6467bc50c4b6a5",
+            "slotId": "Helmet_back"
+          }
+        ],
+        "_encyclopedia": "5b7196b5f3bfa50f2f6a2b55"
+      }
+    ]
   }
 }

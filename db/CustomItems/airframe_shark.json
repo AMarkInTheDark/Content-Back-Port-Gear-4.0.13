@@ -15,14 +15,14 @@
       "en": {
         "name": "Crye Precision AirFrame helmet (Shark)",
         "shortName": "AirFrame",
-        "description": "The AirFrame ballistic helmet sets the standards in protection, comfort, and modularity. Manufactured by Crye Precision. Shark version."
+        "description": "The AirFrame ballistic helmet sets the standards in protection, comfort, and modularity. The unique overlapping shell design of the AirFrame creates an integrated vent that provides passive cooling and can reduce the damaging effects of explosive blast waves. Highly modular. Manufactured by Crye Precision. The added eye stickers complete the Shark look when combined with the painted chops."
       }
     },
     "addtoTraders": true,
     "addtoBots": true,
     "traders": {
       "6617beeaa9cfa777ca915b7c": {
-        "c3a711b58f6f859e7849e427": {
+        "d0e02c87215c2677b0945619": {
           "barterSettings": {
             "loyalLevel": 3,
             "unlimitedCount": true,
@@ -36,6 +36,35 @@
           ]
         }
       }
-    }
+    },
+    "addWeaponPreset": true,
+    "weaponPresets": [
+      {
+        "_id": "c95b4db5eda1bc064fb09106",
+        "_type": "Preset",
+        "_changeWeaponName": false,
+        "_name": "Crye Precision AirFrame helmet (Shark)",
+        "_parent": "2be6876179d8121f3d7cc591",
+        "_items": [
+          {
+            "_id": "2be6876179d8121f3d7cc591",
+            "_tpl": "82b6ef49921d1b959bf2da4e"
+          },
+          {
+            "_id": "83b233198122792cba7a30c7",
+            "_tpl": "657f9897f4c82973640b235e",
+            "parentId": "2be6876179d8121f3d7cc591",
+            "slotId": "Helmet_top"
+          },
+          {
+            "_id": "fed3e22b4f7ee85604c45ed6",
+            "_tpl": "657f98fbada5fadd1f07a585",
+            "parentId": "2be6876179d8121f3d7cc591",
+            "slotId": "Helmet_back"
+          }
+        ],
+        "_encyclopedia": "82b6ef49921d1b959bf2da4e"
+      }
+    ]
   }
 }

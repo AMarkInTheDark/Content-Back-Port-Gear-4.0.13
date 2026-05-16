@@ -15,14 +15,14 @@
       "en": {
         "name": "Crye Precision AirFrame helmet (Old School)",
         "shortName": "AirFrame",
-        "description": "The AirFrame ballistic helmet sets the standards in protection, comfort, and modularity. Manufactured by Crye Precision. Old School version."
+        "description": "A Crye Precision AirFrame ballistic helmet without accessory rails. When JP was brought into the cleanup crew on Tagilla's recommendation, this became his first trophy, taken from one of the Arena fighters."
       }
     },
     "addtoTraders": true,
     "addtoBots": true,
     "traders": {
       "6617beeaa9cfa777ca915b7c": {
-        "8a5a1468c3b5a108327d6b3a": {
+        "0d8fecc66112c743e0591fe7": {
           "barterSettings": {
             "loyalLevel": 3,
             "unlimitedCount": true,
@@ -36,6 +36,35 @@
           ]
         }
       }
-    }
+    },
+    "addWeaponPreset": true,
+    "weaponPresets": [
+      {
+        "_id": "894f2f11c4efa7ed17a9f276",
+        "_type": "Preset",
+        "_changeWeaponName": false,
+        "_name": "Crye Precision AirFrame helmet (Old School)",
+        "_parent": "a4c19316e45b22ae8ad62b2f",
+        "_items": [
+          {
+            "_id": "a4c19316e45b22ae8ad62b2f",
+            "_tpl": "39926782299e34d3300e9d64"
+          },
+          {
+            "_id": "0fb7ff16c46797aab62b6049",
+            "_tpl": "657f9897f4c82973640b235e",
+            "parentId": "a4c19316e45b22ae8ad62b2f",
+            "slotId": "Helmet_top"
+          },
+          {
+            "_id": "7759125420439341af5e5ee0",
+            "_tpl": "657f98fbada5fadd1f07a585",
+            "parentId": "a4c19316e45b22ae8ad62b2f",
+            "slotId": "Helmet_back"
+          }
+        ],
+        "_encyclopedia": "39926782299e34d3300e9d64"
+      }
+    ]
   }
 }

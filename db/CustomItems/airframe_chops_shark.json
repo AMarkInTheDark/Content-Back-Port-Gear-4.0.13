@@ -1,0 +1,41 @@
+{
+  "eabafc4c1a5e17b2fc3fadf0": {
+    "itemTplToClone": "5c178a942e22164bef5ceca3",
+    "parentId": "57bef4c42459772e8d35a53b",
+    "handbookParentId": "5b5f704686f77447ec5d76d7",
+    "fleaPriceRoubles": 0,
+    "handbookPriceRoubles": 59675,
+    "overrideProperties": {
+      "Prefab": {
+        "path": "assets/content/items/equipment/helmet_crye_airframe_chops/item_equipment_helmet_crye_airframe_chops_shark_bp03.bundle",
+        "rcid": ""
+      }
+    },
+    "locales": {
+      "en": {
+        "name": "Crye Precision AirFrame Chops (Shark)",
+        "shortName": "AF Chops",
+        "description": "An additional armor module for the Crye Precision AirFrame helmet, which protects the ear and the jaw area from fragmentation and small-caliber ricochets. Custom painted with a shark teeth pattern."
+      }
+    },
+    "addtoTraders": true,
+    "addtoBots": true,
+    "traders": {
+      "6617beeaa9cfa777ca915b7c": {
+        "4066063dfc0d27a73fad776b": {
+          "barterSettings": {
+            "loyalLevel": 4,
+            "unlimitedCount": true,
+            "stackObjectsCount": 1
+          },
+          "barters": [
+            {
+              "_tpl": "5d235b4d86f7742e017bc88a",
+              "count": 8
+            }
+          ]
+        }
+      }
+    }
+  }
+}

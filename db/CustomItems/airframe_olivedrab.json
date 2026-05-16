@@ -15,14 +15,14 @@
       "en": {
         "name": "Crye Precision AirFrame helmet (Olive Drab)",
         "shortName": "AirFrame",
-        "description": "The AirFrame ballistic helmet sets the standards in protection, comfort, and modularity. Manufactured by Crye Precision. Olive Drab version."
+        "description": "The AirFrame ballistic helmet sets the standards in protection, comfort, and modularity. The unique overlapping shell design of the AirFrame creates an integrated vent that provides passive cooling and can reduce the damaging effects of explosive blast waves. Manufactured by Crye Precision. Olive Drab version."
       }
     },
     "addtoTraders": true,
     "addtoBots": true,
     "traders": {
       "6617beeaa9cfa777ca915b7c": {
-        "fa19bad462ff19b13d5ecc0e": {
+        "47eaca53fc7260c387d17af1": {
           "barterSettings": {
             "loyalLevel": 4,
             "unlimitedCount": true,
@@ -36,6 +36,35 @@
           ]
         }
       }
-    }
+    },
+    "addWeaponPreset": true,
+    "weaponPresets": [
+      {
+        "_id": "dbd0d66a8d650120b3811d2f",
+        "_type": "Preset",
+        "_changeWeaponName": false,
+        "_name": "Crye Precision AirFrame helmet (Olive Drab)",
+        "_parent": "74e172645026294cf5af06c2",
+        "_items": [
+          {
+            "_id": "74e172645026294cf5af06c2",
+            "_tpl": "af380943c89f8aae730cc6df"
+          },
+          {
+            "_id": "246ac5e64f8381d462114e39",
+            "_tpl": "657f9897f4c82973640b235e",
+            "parentId": "74e172645026294cf5af06c2",
+            "slotId": "Helmet_top"
+          },
+          {
+            "_id": "90b34e91258496abd8a36665",
+            "_tpl": "657f98fbada5fadd1f07a585",
+            "parentId": "74e172645026294cf5af06c2",
+            "slotId": "Helmet_back"
+          }
+        ],
+        "_encyclopedia": "af380943c89f8aae730cc6df"
+      }
+    ]
   }
 }

@@ -15,14 +15,14 @@
       "en": {
         "name": "Crye Precision AirFrame helmet (Mesh Green)",
         "shortName": "AirFrame",
-        "description": "The AirFrame ballistic helmet sets the standards in protection, comfort, and modularity. Manufactured by Crye Precision. Mesh Green version."
+        "description": "The AirFrame ballistic helmet sets the standards in protection, comfort, and modularity. The unique overlapping shell design of the AirFrame creates an integrated vent that provides passive cooling and can reduce the damaging effects of explosive blast waves. Manufactured by Crye Precision. Mesh Green version."
       }
     },
     "addtoTraders": true,
     "addtoBots": true,
     "traders": {
       "6617beeaa9cfa777ca915b7c": {
-        "58badf603e9a52a03e5a0a57": {
+        "88a9a379f120c544d9cdf7fe": {
           "barterSettings": {
             "loyalLevel": 4,
             "unlimitedCount": true,
@@ -36,6 +36,35 @@
           ]
         }
       }
-    }
+    },
+    "addWeaponPreset": true,
+    "weaponPresets": [
+      {
+        "_id": "b7be35f260fdd37031e573da",
+        "_type": "Preset",
+        "_changeWeaponName": false,
+        "_name": "Crye Precision AirFrame helmet (Mesh Green)",
+        "_parent": "b0ec89789088077cdd081cbc",
+        "_items": [
+          {
+            "_id": "b0ec89789088077cdd081cbc",
+            "_tpl": "2701d92dc5ba95bd27bfa152"
+          },
+          {
+            "_id": "63990c80e6b1e1275286cae9",
+            "_tpl": "657f9897f4c82973640b235e",
+            "parentId": "b0ec89789088077cdd081cbc",
+            "slotId": "Helmet_top"
+          },
+          {
+            "_id": "b01bc9e73fa7e5e59c30501d",
+            "_tpl": "657f98fbada5fadd1f07a585",
+            "parentId": "b0ec89789088077cdd081cbc",
+            "slotId": "Helmet_back"
+          }
+        ],
+        "_encyclopedia": "2701d92dc5ba95bd27bfa152"
+      }
+    ]
   }
 }

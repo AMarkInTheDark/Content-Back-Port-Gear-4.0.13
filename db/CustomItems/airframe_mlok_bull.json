@@ -15,14 +15,14 @@
       "en": {
         "name": "Crye Precision AirFrame M-LOK helmet (Bull)",
         "shortName": "AirFrame M-LOK",
-        "description": "The AirFrame ballistic helmet sets the standards in protection, comfort, and modularity. Equipped with M-LOK rails. Manufactured by Crye Precision. Bull version."
+        "description": "A Crye Precision AirFrame ballistic helmet fitted with M-LOK accessory rails. This configuration is most commonly seen among fans of JP, one of the Arena Champions. Rumor has it that this is the exact type of helmet he once tossed into the air and shot with his final round when he first became champion."
       }
     },
     "addtoTraders": true,
     "addtoBots": true,
     "traders": {
       "6617beeaa9cfa777ca915b7c": {
-        "e6e38864ecd4dcdab988d3f3": {
+        "9ce66118b4f0810555ddd111": {
           "barterSettings": {
             "loyalLevel": 3,
             "unlimitedCount": true,
@@ -36,6 +36,35 @@
           ]
         }
       }
-    }
+    },
+    "addWeaponPreset": true,
+    "weaponPresets": [
+      {
+        "_id": "4a8ec05bff7dd147f7ca4cae",
+        "_type": "Preset",
+        "_changeWeaponName": false,
+        "_name": "Crye Precision AirFrame M-LOK helmet (Bull)",
+        "_parent": "3a95c79abec91505521e6733",
+        "_items": [
+          {
+            "_id": "3a95c79abec91505521e6733",
+            "_tpl": "2d5dae7fde19a4d460013b11"
+          },
+          {
+            "_id": "04420d85aac915d8d1a999c7",
+            "_tpl": "657f9897f4c82973640b235e",
+            "parentId": "3a95c79abec91505521e6733",
+            "slotId": "Helmet_top"
+          },
+          {
+            "_id": "e24a46be3e042aa3d2f288ee",
+            "_tpl": "657f98fbada5fadd1f07a585",
+            "parentId": "3a95c79abec91505521e6733",
+            "slotId": "Helmet_back"
+          }
+        ],
+        "_encyclopedia": "2d5dae7fde19a4d460013b11"
+      }
+    ]
   }
 }
