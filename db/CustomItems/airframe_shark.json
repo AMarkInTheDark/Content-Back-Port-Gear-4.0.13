@@ -9,7 +9,133 @@
       "Prefab": {
         "path": "assets/content/items/equipment/helmet_crye_airframe/item_equipment_helmet_crye_airframe_shark_bp03.bundle",
         "rcid": ""
-      }
+      },
+      "Slots": [
+        {
+          "_name": "mod_equipment_000",
+          "_id": "1ce4c7da294aa46bfdad7703",
+          "_parent": "82b6ef49921d1b959bf2da4e",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5a16b672fcdbcb001912fa83",
+                  "5a16b7e1fcdbcb00165aa6c9"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_nvg",
+          "_id": "e3711e8857c4c5c5900bb998",
+          "_parent": "82b6ef49921d1b959bf2da4e",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5c0558060db834001b735271",
+                  "5a16b8a9fcdbcb00165aa6ca"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_mount",
+          "_id": "1adf46ba41d03a65d0a4be7f",
+          "_parent": "82b6ef49921d1b959bf2da4e",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5a398b75c4a282000a51a266",
+                  "5a398ab9c4a282000c5a9842"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_equipment_001",
+          "_id": "b6d859afd53992ebe1cabd8a",
+          "_parent": "82b6ef49921d1b959bf2da4e",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5c178a942e22164bef5ceca3",
+                  "5c1793902e221602b21d3de2"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "Helmet_top",
+          "_id": "c37f68b60f7de15cec40fcdb",
+          "_parent": "82b6ef49921d1b959bf2da4e",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "657f9897f4c82973640b235e"
+                ],
+                "Plate": "657f9897f4c82973640b235e",
+                "armorColliders": [
+                  "ParietalHead"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": true
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": true,
+          "_proto": "64479fdf9731c8fadc0642c1"
+        },
+        {
+          "_name": "Helmet_back",
+          "_id": "f5bfa529c6a1f651bcfe0edd",
+          "_parent": "82b6ef49921d1b959bf2da4e",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "657f98fbada5fadd1f07a585"
+                ],
+                "Plate": "657f98fbada5fadd1f07a585",
+                "armorColliders": [
+                  "BackHead"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": true
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": true,
+          "_proto": "64479fdf9731c8fadc0642c1"
+        }
+      ]
     },
     "locales": {
       "en": {
@@ -22,7 +148,7 @@
     "addtoBots": true,
     "traders": {
       "6617beeaa9cfa777ca915b7c": {
-        "d0e02c87215c2677b0945619": {
+        "5206acb6ebceb74adfe5d8bb": {
           "barterSettings": {
             "loyalLevel": 3,
             "unlimitedCount": true,
@@ -40,26 +166,26 @@
     "addWeaponPreset": true,
     "weaponPresets": [
       {
-        "_id": "c95b4db5eda1bc064fb09106",
+        "_id": "97d316d2d1e8ac23caf57a40",
         "_type": "Preset",
         "_changeWeaponName": false,
         "_name": "Crye Precision AirFrame helmet (Shark)",
-        "_parent": "2be6876179d8121f3d7cc591",
+        "_parent": "a4ec52fc81a573e48f713f52",
         "_items": [
           {
-            "_id": "2be6876179d8121f3d7cc591",
+            "_id": "a4ec52fc81a573e48f713f52",
             "_tpl": "82b6ef49921d1b959bf2da4e"
           },
           {
-            "_id": "83b233198122792cba7a30c7",
+            "_id": "6d36b806307f2b35574088f3",
             "_tpl": "657f9897f4c82973640b235e",
-            "parentId": "2be6876179d8121f3d7cc591",
+            "parentId": "a4ec52fc81a573e48f713f52",
             "slotId": "Helmet_top"
           },
           {
-            "_id": "fed3e22b4f7ee85604c45ed6",
+            "_id": "c20a508aee6e7f9bb26f37d8",
             "_tpl": "657f98fbada5fadd1f07a585",
-            "parentId": "2be6876179d8121f3d7cc591",
+            "parentId": "a4ec52fc81a573e48f713f52",
             "slotId": "Helmet_back"
           }
         ],
