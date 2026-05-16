@@ -244,6 +244,32 @@
         "cubemaps",
         "shaders"
       ]
+    },
+    {
+      "key": "assets/content/items/equipment/helmet_crye_airframe/item_equipment_helmet_crye_airframe_tan.bundle",
+      "dependencyKeys": [
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "cubemaps",
+        "shaders"
+      ]
+    },
+    {
+      "key": "assets/content/items/equipment/helmet_crye_airframe_chops/item_equipment_helmet_crye_airframe_chops.bundle",
+      "dependencyKeys": [
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "assets/content/items/equipment/helmet_crye_airframe_chops/item_equipment_helmet_crye_airframe_chops_textures",
+        "cubemaps",
+        "shaders"
+      ]
+    },
+    {
+      "key": "assets/content/items/equipment/helmet_crye_airframe_chops/item_equipment_helmet_crye_airframe_ears.bundle",
+      "dependencyKeys": [
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "assets/content/items/equipment/helmet_crye_airframe_chops/item_equipment_helmet_crye_airframe_chops_textures",
+        "cubemaps",
+        "shaders"
+      ]
     }
   ]
 }
