@@ -190,6 +190,160 @@
         "_tpl": "656fa0fb498d1b7e3e071d9c",
         "parentId": "d2a5157713453de4fafa314c",
         "slotId": "Back_plate"
+      },
+      {
+        "_id": "421881fabdb729b317aa8382",
+        "_tpl": "2701d92dc5ba95bd27bfa152",
+        "parentId": "hideout",
+        "slotId": "hideout",
+        "upd": {
+          "UnlimitedCount": true,
+          "StackObjectsCount": 99999
+        }
+      },
+      {
+        "_id": "91ac227cb2c054e7852606b5",
+        "_tpl": "657f9897f4c82973640b235e",
+        "parentId": "421881fabdb729b317aa8382",
+        "slotId": "Helmet_top"
+      },
+      {
+        "_id": "4c3e6ff3741ab623b9f811a1",
+        "_tpl": "657f98fbada5fadd1f07a585",
+        "parentId": "421881fabdb729b317aa8382",
+        "slotId": "Helmet_back"
+      },
+      {
+        "_id": "236dbaf87a42eda8426dcafa",
+        "_tpl": "39926782299e34d3300e9d64",
+        "parentId": "hideout",
+        "slotId": "hideout",
+        "upd": {
+          "UnlimitedCount": true,
+          "StackObjectsCount": 99999
+        }
+      },
+      {
+        "_id": "8ba96f1126fc8f25d9956325",
+        "_tpl": "657f9897f4c82973640b235e",
+        "parentId": "236dbaf87a42eda8426dcafa",
+        "slotId": "Helmet_top"
+      },
+      {
+        "_id": "6b9c91bc92cccce91c52a8ad",
+        "_tpl": "657f98fbada5fadd1f07a585",
+        "parentId": "236dbaf87a42eda8426dcafa",
+        "slotId": "Helmet_back"
+      },
+      {
+        "_id": "3608c0cf00b99e5b895875ab",
+        "_tpl": "af380943c89f8aae730cc6df",
+        "parentId": "hideout",
+        "slotId": "hideout",
+        "upd": {
+          "UnlimitedCount": true,
+          "StackObjectsCount": 99999
+        }
+      },
+      {
+        "_id": "def12363da5484d095e304e2",
+        "_tpl": "657f9897f4c82973640b235e",
+        "parentId": "3608c0cf00b99e5b895875ab",
+        "slotId": "Helmet_top"
+      },
+      {
+        "_id": "44fa40ce40f83363ddfbe974",
+        "_tpl": "657f98fbada5fadd1f07a585",
+        "parentId": "3608c0cf00b99e5b895875ab",
+        "slotId": "Helmet_back"
+      },
+      {
+        "_id": "5226cc3d6f0f431036a9d50e",
+        "_tpl": "82b6ef49921d1b959bf2da4e",
+        "parentId": "hideout",
+        "slotId": "hideout",
+        "upd": {
+          "UnlimitedCount": true,
+          "StackObjectsCount": 99999
+        }
+      },
+      {
+        "_id": "add7fd14d4dc33b66527369e",
+        "_tpl": "657f9897f4c82973640b235e",
+        "parentId": "5226cc3d6f0f431036a9d50e",
+        "slotId": "Helmet_top"
+      },
+      {
+        "_id": "e44eeea1818911384dc45e0b",
+        "_tpl": "657f98fbada5fadd1f07a585",
+        "parentId": "5226cc3d6f0f431036a9d50e",
+        "slotId": "Helmet_back"
+      },
+      {
+        "_id": "c17ac254c66051fa23c20eaf",
+        "_tpl": "5b7196b5f3bfa50f2f6a2b55",
+        "parentId": "hideout",
+        "slotId": "hideout",
+        "upd": {
+          "UnlimitedCount": true,
+          "StackObjectsCount": 99999
+        }
+      },
+      {
+        "_id": "d9fefce9636b4ff1ea6d3e37",
+        "_tpl": "657f9897f4c82973640b235e",
+        "parentId": "c17ac254c66051fa23c20eaf",
+        "slotId": "Helmet_top"
+      },
+      {
+        "_id": "a047f22dddaea47d537b727b",
+        "_tpl": "657f98fbada5fadd1f07a585",
+        "parentId": "c17ac254c66051fa23c20eaf",
+        "slotId": "Helmet_back"
+      },
+      {
+        "_id": "486a779ec4d38ee3b5c03812",
+        "_tpl": "df3580f7a8349c9db18ad000",
+        "parentId": "hideout",
+        "slotId": "hideout",
+        "upd": {
+          "UnlimitedCount": true,
+          "StackObjectsCount": 99999
+        }
+      },
+      {
+        "_id": "690a19650d6f9f4337831cf6",
+        "_tpl": "657f9897f4c82973640b235e",
+        "parentId": "486a779ec4d38ee3b5c03812",
+        "slotId": "Helmet_top"
+      },
+      {
+        "_id": "13a062a6db4498fe7c8d114c",
+        "_tpl": "657f98fbada5fadd1f07a585",
+        "parentId": "486a779ec4d38ee3b5c03812",
+        "slotId": "Helmet_back"
+      },
+      {
+        "_id": "53545d72bc6de414b1ae4dfb",
+        "_tpl": "2d5dae7fde19a4d460013b11",
+        "parentId": "hideout",
+        "slotId": "hideout",
+        "upd": {
+          "UnlimitedCount": true,
+          "StackObjectsCount": 99999
+        }
+      },
+      {
+        "_id": "99c2f48b42e2d15d15ec4f96",
+        "_tpl": "657f9897f4c82973640b235e",
+        "parentId": "53545d72bc6de414b1ae4dfb",
+        "slotId": "Helmet_top"
+      },
+      {
+        "_id": "9a4f8b9d9d32545bb22f0925",
+        "_tpl": "657f98fbada5fadd1f07a585",
+        "parentId": "53545d72bc6de414b1ae4dfb",
+        "slotId": "Helmet_back"
       }
     ],
     "barter_scheme": {
@@ -224,13 +378,76 @@
             "count": 39
           }
         ]
+      ],
+      "421881fabdb729b317aa8382": [
+        [
+          {
+            "_tpl": "5d235b4d86f7742e017bc88a",
+            "count": 18
+          }
+        ]
+      ],
+      "236dbaf87a42eda8426dcafa": [
+        [
+          {
+            "_tpl": "5d235b4d86f7742e017bc88a",
+            "count": 20
+          }
+        ]
+      ],
+      "3608c0cf00b99e5b895875ab": [
+        [
+          {
+            "_tpl": "5d235b4d86f7742e017bc88a",
+            "count": 18
+          }
+        ]
+      ],
+      "5226cc3d6f0f431036a9d50e": [
+        [
+          {
+            "_tpl": "5d235b4d86f7742e017bc88a",
+            "count": 18
+          }
+        ]
+      ],
+      "c17ac254c66051fa23c20eaf": [
+        [
+          {
+            "_tpl": "5d235b4d86f7742e017bc88a",
+            "count": 18
+          }
+        ]
+      ],
+      "486a779ec4d38ee3b5c03812": [
+        [
+          {
+            "_tpl": "5d235b4d86f7742e017bc88a",
+            "count": 18
+          }
+        ]
+      ],
+      "53545d72bc6de414b1ae4dfb": [
+        [
+          {
+            "_tpl": "5d235b4d86f7742e017bc88a",
+            "count": 20
+          }
+        ]
       ]
     },
     "loyal_level_items": {
       "eeb1e98cc0418b5d850242db": 2,
       "6c7e51a8879e68c13e6949eb": 3,
       "91e3677c36b9e1a3dec7e2d5": 3,
-      "d2a5157713453de4fafa314c": 3
+      "d2a5157713453de4fafa314c": 3,
+      "421881fabdb729b317aa8382": 4,
+      "236dbaf87a42eda8426dcafa": 3,
+      "3608c0cf00b99e5b895875ab": 4,
+      "5226cc3d6f0f431036a9d50e": 3,
+      "c17ac254c66051fa23c20eaf": 4,
+      "486a779ec4d38ee3b5c03812": 4,
+      "53545d72bc6de414b1ae4dfb": 3
     }
   }
 }
