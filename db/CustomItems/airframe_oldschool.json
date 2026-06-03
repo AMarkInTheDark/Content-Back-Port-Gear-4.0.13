@@ -39,7 +39,8 @@
               {
                 "Filter": [
                   "5c0558060db834001b735271",
-                  "5a16b8a9fcdbcb00165aa6ca"
+                  "5a16b8a9fcdbcb00165aa6ca",
+                  "897f80e478fc9d679ed2c045"
                 ],
                 "Shift": 0
               }
@@ -144,25 +145,9 @@
         "description": "A Crye Precision AirFrame ballistic helmet without accessory rails. When JP was brought into the cleanup crew on Tagilla's recommendation, this became his first trophy, taken from one of the Arena fighters."
       }
     },
-    "addtoTraders": true,
+    "addtoTraders": false,
     "addtoBots": true,
-    "traders": {
-      "6617beeaa9cfa777ca915b7c": {
-        "1cadace9b84bcfad128f970f": {
-          "barterSettings": {
-            "loyalLevel": 3,
-            "unlimitedCount": true,
-            "stackObjectsCount": 1
-          },
-          "barters": [
-            {
-              "_tpl": "5d235b4d86f7742e017bc88a",
-              "count": 20
-            }
-          ]
-        }
-      }
-    },
+    "traders": {},
     "addWeaponPreset": true,
     "weaponPresets": [
       {

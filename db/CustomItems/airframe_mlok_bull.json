@@ -144,25 +144,9 @@
         "description": "A Crye Precision AirFrame ballistic helmet fitted with M-LOK accessory rails. This configuration is most commonly seen among fans of JP, one of the Arena Champions. Rumor has it that this is the exact type of helmet he once tossed into the air and shot with his final round when he first became champion."
       }
     },
-    "addtoTraders": true,
+    "addtoTraders": false,
     "addtoBots": true,
-    "traders": {
-      "6617beeaa9cfa777ca915b7c": {
-        "7ff0a62ebdfbaa1eccb0b69c": {
-          "barterSettings": {
-            "loyalLevel": 3,
-            "unlimitedCount": true,
-            "stackObjectsCount": 1
-          },
-          "barters": [
-            {
-              "_tpl": "5d235b4d86f7742e017bc88a",
-              "count": 20
-            }
-          ]
-        }
-      }
-    },
+    "traders": {},
     "addWeaponPreset": true,
     "weaponPresets": [
       {
