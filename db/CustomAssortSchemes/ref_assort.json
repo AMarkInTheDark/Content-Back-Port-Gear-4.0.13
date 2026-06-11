@@ -344,6 +344,58 @@
         "_tpl": "657f98fbada5fadd1f07a585",
         "parentId": "53545d72bc6de414b1ae4dfb",
         "slotId": "Helmet_back"
+      },
+      {
+        "_id": "07103d8ae45dc2bb9d085813",
+        "_tpl": "f47c5d72c3e88a91c2b4f8a3",
+        "parentId": "hideout",
+        "slotId": "hideout",
+        "upd": {
+          "UnlimitedCount": true,
+          "StackObjectsCount": 99999
+        }
+      },
+      {
+        "_id": "3617bbd5986a56b258a273af",
+        "_tpl": "65764275d8537eb26a0355e9",
+        "parentId": "07103d8ae45dc2bb9d085813",
+        "slotId": "Soft_armor_front"
+      },
+      {
+        "_id": "252c8742091eb2b0201993f4",
+        "_tpl": "657642b0e6d5dd75f40688a5",
+        "parentId": "07103d8ae45dc2bb9d085813",
+        "slotId": "Soft_armor_back"
+      },
+      {
+        "_id": "79c566be59cf24790444ac65",
+        "_tpl": "6576434820cc24d17102b148",
+        "parentId": "07103d8ae45dc2bb9d085813",
+        "slotId": "Soft_armor_left"
+      },
+      {
+        "_id": "42acac2f7749a03c580a1e1d",
+        "_tpl": "657643732bc38ef78e076477",
+        "parentId": "07103d8ae45dc2bb9d085813",
+        "slotId": "soft_armor_right"
+      },
+      {
+        "_id": "69b72c96a156a33c8fd56f43",
+        "_tpl": "657643a220cc24d17102b14c",
+        "parentId": "07103d8ae45dc2bb9d085813",
+        "slotId": "Collar"
+      },
+      {
+        "_id": "086fd6fe4aef8fa2b995c583",
+        "_tpl": "655746010177119f4a097ff7",
+        "parentId": "07103d8ae45dc2bb9d085813",
+        "slotId": "Front_plate"
+      },
+      {
+        "_id": "6595a9139796302c5e0d27d9",
+        "_tpl": "655746010177119f4a097ff7",
+        "parentId": "07103d8ae45dc2bb9d085813",
+        "slotId": "Back_plate"
       }
     ],
     "barter_scheme": {
@@ -434,6 +486,14 @@
             "count": 20
           }
         ]
+      ],
+      "07103d8ae45dc2bb9d085813": [
+        [
+          {
+            "_tpl": "5d235b4d86f7742e017bc88a",
+            "count": 150
+          }
+        ]
       ]
     },
     "loyal_level_items": {
@@ -447,7 +507,8 @@
       "5226cc3d6f0f431036a9d50e": 3,
       "c17ac254c66051fa23c20eaf": 4,
       "486a779ec4d38ee3b5c03812": 4,
-      "53545d72bc6de414b1ae4dfb": 3
+      "53545d72bc6de414b1ae4dfb": 3,
+      "07103d8ae45dc2bb9d085813": 4
     }
   }
 }
