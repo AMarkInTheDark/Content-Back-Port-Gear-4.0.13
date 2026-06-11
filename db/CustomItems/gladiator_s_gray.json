@@ -1,0 +1,84 @@
+{
+  "f47c5d72c3e88a91c2b4f8a3": {
+    "itemTplToClone": "5c0e625a86f7742d77340f62",
+    "parentId": "5448e54d4bdc2dcc718b4568",
+    "handbookParentId": "5b5f701386f774093f2ecf0f",
+    "fleaPriceRoubles": 0,
+    "handbookPriceRoubles": 94152,
+    "overrideProperties": {
+      "Prefab": {
+        "path": "assets/content/items/equipment/item_equipment_armor_gladiator_s/item_equipment_armor_gladiator_s.bundle",
+        "rcid": ""
+      }
+    },
+    "locales": {
+      "en": {
+        "name": "FORT Gladiator-S plate carrier (Gray)",
+        "shortName": "Gladiator-S",
+        "description": "A modern modular plate carrier produced by FORT, offering extensive coverage of the torso including side plates. The Gladiator-S configuration provides a balance of mobility and protection for assault operations."
+      }
+    },
+    "addtoTraders": false,
+    "addtoBots": true,
+    "traders": {},
+    "addWeaponPreset": true,
+    "weaponPresets": [
+      {
+        "_id": "63f494aff89e26c8b0dce8ce",
+        "_type": "Preset",
+        "_changeWeaponName": false,
+        "_name": "FORT Gladiator-S plate carrier (Gray)",
+        "_parent": "27e0cf48e5d1b09cb1dd6d69",
+        "_items": [
+          {
+            "_id": "27e0cf48e5d1b09cb1dd6d69",
+            "_tpl": "f47c5d72c3e88a91c2b4f8a3"
+          },
+          {
+            "_id": "f32dfe41fd61b7113e10211a",
+            "_tpl": "65764275d8537eb26a0355e9",
+            "parentId": "27e0cf48e5d1b09cb1dd6d69",
+            "slotId": "Soft_armor_front"
+          },
+          {
+            "_id": "bd4ea3e9261eece96c055c20",
+            "_tpl": "657642b0e6d5dd75f40688a5",
+            "parentId": "27e0cf48e5d1b09cb1dd6d69",
+            "slotId": "Soft_armor_back"
+          },
+          {
+            "_id": "25dd9d952da0810f8b21cd39",
+            "_tpl": "6576434820cc24d17102b148",
+            "parentId": "27e0cf48e5d1b09cb1dd6d69",
+            "slotId": "Soft_armor_left"
+          },
+          {
+            "_id": "ed6f405acf9c87a83a237831",
+            "_tpl": "657643732bc38ef78e076477",
+            "parentId": "27e0cf48e5d1b09cb1dd6d69",
+            "slotId": "soft_armor_right"
+          },
+          {
+            "_id": "92a595c89eb6fc02bbf1ebe9",
+            "_tpl": "657643a220cc24d17102b14c",
+            "parentId": "27e0cf48e5d1b09cb1dd6d69",
+            "slotId": "Collar"
+          },
+          {
+            "_id": "a684959f3e4eeba77f8286f0",
+            "_tpl": "655746010177119f4a097ff7",
+            "parentId": "27e0cf48e5d1b09cb1dd6d69",
+            "slotId": "Front_plate"
+          },
+          {
+            "_id": "256b25bbbe87f491c4f90f87",
+            "_tpl": "655746010177119f4a097ff7",
+            "parentId": "27e0cf48e5d1b09cb1dd6d69",
+            "slotId": "Back_plate"
+          }
+        ],
+        "_encyclopedia": "f47c5d72c3e88a91c2b4f8a3"
+      }
+    ]
+  }
+}
