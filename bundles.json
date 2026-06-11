@@ -270,6 +270,14 @@
         "cubemaps",
         "shaders"
       ]
+    },
+    {
+      "key": "assets/content/items/equipment/item_equipment_armor_gladiator_s/item_equipment_armor_gladiator_s.bundle",
+      "dependencyKeys": [
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "cubemaps",
+        "shaders"
+      ]
     }
   ]
 }
