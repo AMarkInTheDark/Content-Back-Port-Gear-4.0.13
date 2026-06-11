@@ -144,25 +144,9 @@
         "description": "The AirFrame ballistic helmet sets the standards in protection, comfort, and modularity. The unique overlapping shell design of the AirFrame creates an integrated vent that provides passive cooling and can reduce the damaging effects of explosive blast waves. Highly modular. Manufactured by Crye Precision. The added eye stickers complete the Shark look when combined with the painted chops."
       }
     },
-    "addtoTraders": true,
+    "addtoTraders": false,
     "addtoBots": true,
-    "traders": {
-      "6617beeaa9cfa777ca915b7c": {
-        "5206acb6ebceb74adfe5d8bb": {
-          "barterSettings": {
-            "loyalLevel": 3,
-            "unlimitedCount": true,
-            "stackObjectsCount": 1
-          },
-          "barters": [
-            {
-              "_tpl": "5d235b4d86f7742e017bc88a",
-              "count": 18
-            }
-          ]
-        }
-      }
-    },
+    "traders": {},
     "addWeaponPreset": true,
     "weaponPresets": [
       {
