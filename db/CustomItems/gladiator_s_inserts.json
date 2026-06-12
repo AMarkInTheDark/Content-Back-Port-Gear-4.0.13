@@ -1,0 +1,122 @@
+{
+  "8a1b2c3d4e5f60718293a4b5": {
+    "itemTplToClone": "65764275d8537eb26a0355e9",
+    "parentId": "5448e54d4bdc2dcc718b4568",
+    "handbookParentId": "5b5f701386f774093f2ecf0f",
+    "fleaPriceRoubles": 0,
+    "handbookPriceRoubles": 1,
+    "overrideProperties": {
+      "MaxDurability": 33,
+      "Durability": 33,
+      "armorClass": "3",
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false
+    },
+    "locales": {
+      "en": {
+        "name": "Gladiator-S Soft Insert (Neck/Throat)",
+        "shortName": "Glad-S Neck",
+        "description": "A soft armor insert for the FORT Gladiator-S plate carrier."
+      }
+    },
+    "addtoTraders": false,
+    "addtoBots": false,
+    "traders": {}
+  },
+  "8a1b2c3d4e5f60718293a4b6": {
+    "itemTplToClone": "6576434820cc24d17102b148",
+    "parentId": "5448e54d4bdc2dcc718b4568",
+    "handbookParentId": "5b5f701386f774093f2ecf0f",
+    "fleaPriceRoubles": 0,
+    "handbookPriceRoubles": 1,
+    "overrideProperties": {
+      "MaxDurability": 21,
+      "Durability": 21,
+      "armorClass": "3",
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false
+    },
+    "locales": {
+      "en": {
+        "name": "Gladiator-S Soft Insert (Stomach Right Side)",
+        "shortName": "Glad-S R Side",
+        "description": "A soft armor insert for the FORT Gladiator-S plate carrier."
+      }
+    },
+    "addtoTraders": false,
+    "addtoBots": false,
+    "traders": {}
+  },
+  "8a1b2c3d4e5f60718293a4b7": {
+    "itemTplToClone": "657643732bc38ef78e076477",
+    "parentId": "5448e54d4bdc2dcc718b4568",
+    "handbookParentId": "5b5f701386f774093f2ecf0f",
+    "fleaPriceRoubles": 0,
+    "handbookPriceRoubles": 1,
+    "overrideProperties": {
+      "MaxDurability": 21,
+      "Durability": 21,
+      "armorClass": "3",
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false
+    },
+    "locales": {
+      "en": {
+        "name": "Gladiator-S Soft Insert (Stomach Left Side)",
+        "shortName": "Glad-S L Side",
+        "description": "A soft armor insert for the FORT Gladiator-S plate carrier."
+      }
+    },
+    "addtoTraders": false,
+    "addtoBots": false,
+    "traders": {}
+  },
+  "8a1b2c3d4e5f60718293a4b8": {
+    "itemTplToClone": "657642b0e6d5dd75f40688a5",
+    "parentId": "5448e54d4bdc2dcc718b4568",
+    "handbookParentId": "5b5f701386f774093f2ecf0f",
+    "fleaPriceRoubles": 0,
+    "handbookPriceRoubles": 1,
+    "overrideProperties": {
+      "MaxDurability": 80,
+      "Durability": 80,
+      "armorClass": "3",
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false
+    },
+    "locales": {
+      "en": {
+        "name": "Gladiator-S Soft Insert (Lower/Upper back)",
+        "shortName": "Glad-S Back",
+        "description": "A soft armor insert for the FORT Gladiator-S plate carrier."
+      }
+    },
+    "addtoTraders": false,
+    "addtoBots": false,
+    "traders": {}
+  },
+  "8a1b2c3d4e5f60718293a4b9": {
+    "itemTplToClone": "657643a220cc24d17102b14c",
+    "parentId": "5448e54d4bdc2dcc718b4568",
+    "handbookParentId": "5b5f701386f774093f2ecf0f",
+    "fleaPriceRoubles": 0,
+    "handbookPriceRoubles": 1,
+    "overrideProperties": {
+      "MaxDurability": 80,
+      "Durability": 80,
+      "armorClass": "3",
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false
+    },
+    "locales": {
+      "en": {
+        "name": "Gladiator-S Soft Insert (Thorax/Stomach)",
+        "shortName": "Glad-S Thorax",
+        "description": "A soft armor insert for the FORT Gladiator-S plate carrier."
+      }
+    },
+    "addtoTraders": false,
+    "addtoBots": false,
+    "traders": {}
+  }
+}

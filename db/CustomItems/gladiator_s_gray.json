@@ -9,7 +9,16 @@
       "Prefab": {
         "path": "assets/content/items/equipment/item_equipment_armor_gladiator_s/item_equipment_armor_gladiator_s.bundle",
         "rcid": ""
-      }
+      },
+      "armorClass": "5",
+      "MaxDurability": 345,
+      "Durability": 345,
+      "weaponErgonomicPenalty": -2,
+      "speedPenaltyPercent": -3,
+      "mousePenalty": -2,
+      "Weight": 3.31,
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false
     },
     "locales": {
       "en": {
@@ -35,43 +44,43 @@
             "_tpl": "f47c5d72c3e88a91c2b4f8a3"
           },
           {
-            "_id": "f32dfe41fd61b7113e10211a",
-            "_tpl": "65764275d8537eb26a0355e9",
+            "_id": "9ecbd83bbc56c37c83096780",
+            "_tpl": "8a1b2c3d4e5f60718293a4b5",
             "parentId": "27e0cf48e5d1b09cb1dd6d69",
             "slotId": "Soft_armor_front"
           },
           {
-            "_id": "bd4ea3e9261eece96c055c20",
-            "_tpl": "657642b0e6d5dd75f40688a5",
+            "_id": "763ea6d9ece051d6915814d6",
+            "_tpl": "8a1b2c3d4e5f60718293a4b8",
             "parentId": "27e0cf48e5d1b09cb1dd6d69",
             "slotId": "Soft_armor_back"
           },
           {
-            "_id": "25dd9d952da0810f8b21cd39",
-            "_tpl": "6576434820cc24d17102b148",
+            "_id": "ef61d7ab2bb2debc99c17150",
+            "_tpl": "8a1b2c3d4e5f60718293a4b7",
             "parentId": "27e0cf48e5d1b09cb1dd6d69",
             "slotId": "Soft_armor_left"
           },
           {
-            "_id": "ed6f405acf9c87a83a237831",
-            "_tpl": "657643732bc38ef78e076477",
+            "_id": "1fa975ceec230750da2df341",
+            "_tpl": "8a1b2c3d4e5f60718293a4b6",
             "parentId": "27e0cf48e5d1b09cb1dd6d69",
             "slotId": "soft_armor_right"
           },
           {
-            "_id": "92a595c89eb6fc02bbf1ebe9",
-            "_tpl": "657643a220cc24d17102b14c",
+            "_id": "e0c8479717312a09b7ecd523",
+            "_tpl": "8a1b2c3d4e5f60718293a4b9",
             "parentId": "27e0cf48e5d1b09cb1dd6d69",
             "slotId": "Collar"
           },
           {
-            "_id": "a684959f3e4eeba77f8286f0",
+            "_id": "019ee7702feb72f478d9d0ec",
             "_tpl": "655746010177119f4a097ff7",
             "parentId": "27e0cf48e5d1b09cb1dd6d69",
             "slotId": "Front_plate"
           },
           {
-            "_id": "256b25bbbe87f491c4f90f87",
+            "_id": "6ea9da5db60a783b6ef853d1",
             "_tpl": "655746010177119f4a097ff7",
             "parentId": "27e0cf48e5d1b09cb1dd6d69",
             "slotId": "Back_plate"
