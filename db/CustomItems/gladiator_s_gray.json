@@ -31,10 +31,7 @@
                   "8a1b2c3d4e5f60718293a4b5"
                 ],
                 "armorColliders": [],
-                "armorPlateColliders": [
-                  "Stomach",
-                  "Chest"
-                ],
+                "armorPlateColliders": [],
                 "bluntDamageReduceFromSoftArmor": true,
                 "locked": true
               }
@@ -55,9 +52,7 @@
                   "8a1b2c3d4e5f60718293a4b8"
                 ],
                 "armorColliders": [],
-                "armorPlateColliders": [
-                  "Back"
-                ],
+                "armorPlateColliders": [],
                 "bluntDamageReduceFromSoftArmor": true,
                 "locked": true
               }
@@ -160,9 +155,7 @@
                   "64afc71497cf3a403c01ff38"
                 ],
                 "armorColliders": [],
-                "armorPlateColliders": [
-                  "Chest"
-                ],
+                "armorPlateColliders": [],
                 "bluntDamageReduceFromSoftArmor": false,
                 "locked": false
               }
@@ -202,9 +195,7 @@
                   "64afc71497cf3a403c01ff38"
                 ],
                 "armorColliders": [],
-                "armorPlateColliders": [
-                  "Back"
-                ],
+                "armorPlateColliders": [],
                 "bluntDamageReduceFromSoftArmor": false,
                 "locked": false
               }
@@ -227,9 +218,7 @@
                   "64afd81707e2cf40e903a316"
                 ],
                 "armorColliders": [],
-                "armorPlateColliders": [
-                  "LeftSideChest"
-                ],
+                "armorPlateColliders": [],
                 "bluntDamageReduceFromSoftArmor": false,
                 "locked": false
               }
@@ -252,9 +241,7 @@
                   "64afd81707e2cf40e903a316"
                 ],
                 "armorColliders": [],
-                "armorPlateColliders": [
-                  "RightSideChest"
-                ],
+                "armorPlateColliders": [],
                 "bluntDamageReduceFromSoftArmor": false,
                 "locked": false
               }
