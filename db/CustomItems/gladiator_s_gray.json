@@ -156,7 +156,10 @@
                 "Filter": [
                   "8a1b2c3d4e5f60718293a4b5"
                 ],
-                "armorColliders": [],
+                "armorColliders": [
+                  "RibcageUp",
+                  "RibcageLow"
+                ],
                 "armorPlateColliders": [],
                 "bluntDamageReduceFromSoftArmor": true,
                 "locked": true
@@ -177,7 +180,10 @@
                 "Filter": [
                   "8a1b2c3d4e5f60718293a4b8"
                 ],
-                "armorColliders": [],
+                "armorColliders": [
+                  "SpineDown",
+                  "SpineTop"
+                ],
                 "armorPlateColliders": [],
                 "bluntDamageReduceFromSoftArmor": true,
                 "locked": true
@@ -198,7 +204,9 @@
                 "Filter": [
                   "8a1b2c3d4e5f60718293a4b7"
                 ],
-                "armorColliders": [],
+                "armorColliders": [
+                  "LeftSideChestDown"
+                ],
                 "armorPlateColliders": [],
                 "bluntDamageReduceFromSoftArmor": true,
                 "locked": true
@@ -219,7 +227,9 @@
                 "Filter": [
                   "8a1b2c3d4e5f60718293a4b6"
                 ],
-                "armorColliders": [],
+                "armorColliders": [
+                  "RightSideChestDown"
+                ],
                 "armorPlateColliders": [],
                 "bluntDamageReduceFromSoftArmor": true,
                 "locked": true
@@ -240,7 +250,10 @@
                 "Filter": [
                   "8a1b2c3d4e5f60718293a4b9"
                 ],
-                "armorColliders": [],
+                "armorColliders": [
+                  "NeckFront",
+                  "NeckBack"
+                ],
                 "armorPlateColliders": [],
                 "bluntDamageReduceFromSoftArmor": true,
                 "locked": true
