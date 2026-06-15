@@ -10,7 +10,11 @@
       "Durability": 33,
       "armorClass": "3",
       "CanSellOnRagfair": false,
-      "CanRequireOnRagfair": false
+      "CanRequireOnRagfair": false,
+      "Repairable": {
+        "MaxDurability": 33,
+        "Durability": 33
+      }
     },
     "locales": {
       "en": {
@@ -34,7 +38,11 @@
       "Durability": 21,
       "armorClass": "3",
       "CanSellOnRagfair": false,
-      "CanRequireOnRagfair": false
+      "CanRequireOnRagfair": false,
+      "Repairable": {
+        "MaxDurability": 21,
+        "Durability": 21
+      }
     },
     "locales": {
       "en": {
@@ -58,7 +66,11 @@
       "Durability": 21,
       "armorClass": "3",
       "CanSellOnRagfair": false,
-      "CanRequireOnRagfair": false
+      "CanRequireOnRagfair": false,
+      "Repairable": {
+        "MaxDurability": 21,
+        "Durability": 21
+      }
     },
     "locales": {
       "en": {
@@ -82,7 +94,11 @@
       "Durability": 80,
       "armorClass": "3",
       "CanSellOnRagfair": false,
-      "CanRequireOnRagfair": false
+      "CanRequireOnRagfair": false,
+      "Repairable": {
+        "MaxDurability": 80,
+        "Durability": 80
+      }
     },
     "locales": {
       "en": {
@@ -106,7 +122,11 @@
       "Durability": 80,
       "armorClass": "3",
       "CanSellOnRagfair": false,
-      "CanRequireOnRagfair": false
+      "CanRequireOnRagfair": false,
+      "Repairable": {
+        "MaxDurability": 80,
+        "Durability": 80
+      }
     },
     "locales": {
       "en": {
