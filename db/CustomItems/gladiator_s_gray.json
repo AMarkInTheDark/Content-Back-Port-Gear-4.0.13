@@ -10,9 +10,9 @@
         "path": "assets/content/items/equipment/item_equipment_armor_gladiator_s/item_equipment_armor_gladiator_s.bundle",
         "rcid": ""
       },
-      "armorClass": "5",
-      "MaxDurability": 345,
-      "Durability": 345,
+      "armorClass": "0",
+      "MaxDurability": 0,
+      "Durability": 0,
       "weaponErgonomicPenalty": -2,
       "speedPenaltyPercent": -3,
       "mousePenalty": -2,
@@ -49,15 +49,18 @@
                   "64afdcb83efdfea28601d041",
                   "64afc71497cf3a403c01ff38"
                 ],
+                "Plate": "65573fa5655447403702a816",
                 "armorColliders": [],
-                "armorPlateColliders": [],
-                "bluntDamageReduceFromSoftArmor": false,
+                "armorPlateColliders": [
+                  "Plate_Granit_SAPI_chest"
+                ],
+                "bluntDamageReduceFromSoftArmor": true,
                 "locked": false
               }
             ]
           },
           "_required": false,
-          "_mergeSlotWithChildren": false,
+          "_mergeSlotWithChildren": true,
           "_proto": "64479fdf9731c8fadc0642c1"
         },
         {
@@ -89,15 +92,18 @@
                   "64afdcb83efdfea28601d041",
                   "64afc71497cf3a403c01ff38"
                 ],
+                "Plate": "65573fa5655447403702a816",
                 "armorColliders": [],
-                "armorPlateColliders": [],
-                "bluntDamageReduceFromSoftArmor": false,
+                "armorPlateColliders": [
+                  "Plate_Granit_SAPI_back"
+                ],
+                "bluntDamageReduceFromSoftArmor": true,
                 "locked": false
               }
             ]
           },
           "_required": false,
-          "_mergeSlotWithChildren": false,
+          "_mergeSlotWithChildren": true,
           "_proto": "64479fdf9731c8fadc0642c1"
         },
         {
@@ -112,15 +118,18 @@
                   "64afdb577bb3bfe8fe03fd1d",
                   "64afd81707e2cf40e903a316"
                 ],
+                "Plate": "",
                 "armorColliders": [],
-                "armorPlateColliders": [],
-                "bluntDamageReduceFromSoftArmor": false,
+                "armorPlateColliders": [
+                  "Plate_Granit_SSAPI_side_left_low"
+                ],
+                "bluntDamageReduceFromSoftArmor": true,
                 "locked": false
               }
             ]
           },
           "_required": false,
-          "_mergeSlotWithChildren": false,
+          "_mergeSlotWithChildren": true,
           "_proto": "64479fdf9731c8fadc0642c1"
         },
         {
@@ -135,15 +144,18 @@
                   "64afdb577bb3bfe8fe03fd1d",
                   "64afd81707e2cf40e903a316"
                 ],
+                "Plate": "",
                 "armorColliders": [],
-                "armorPlateColliders": [],
-                "bluntDamageReduceFromSoftArmor": false,
+                "armorPlateColliders": [
+                  "Plate_Granit_SSAPI_side_right_low"
+                ],
+                "bluntDamageReduceFromSoftArmor": true,
                 "locked": false
               }
             ]
           },
           "_required": false,
-          "_mergeSlotWithChildren": false,
+          "_mergeSlotWithChildren": true,
           "_proto": "64479fdf9731c8fadc0642c1"
         },
         {
@@ -156,9 +168,13 @@
                 "Filter": [
                   "8a1b2c3d4e5f60718293a4b5"
                 ],
-                "armorColliders": [],
+                "Plate": "8a1b2c3d4e5f60718293a4b5",
+                "armorColliders": [
+                  "RibcageUp",
+                  "RibcageLow"
+                ],
                 "armorPlateColliders": [],
-                "bluntDamageReduceFromSoftArmor": true,
+                "bluntDamageReduceFromSoftArmor": false,
                 "locked": true
               }
             ]
@@ -177,9 +193,13 @@
                 "Filter": [
                   "8a1b2c3d4e5f60718293a4b8"
                 ],
-                "armorColliders": [],
+                "Plate": "8a1b2c3d4e5f60718293a4b8",
+                "armorColliders": [
+                  "SpineTop",
+                  "SpineDown"
+                ],
                 "armorPlateColliders": [],
-                "bluntDamageReduceFromSoftArmor": true,
+                "bluntDamageReduceFromSoftArmor": false,
                 "locked": true
               }
             ]
@@ -198,9 +218,12 @@
                 "Filter": [
                   "8a1b2c3d4e5f60718293a4b7"
                 ],
-                "armorColliders": [],
+                "Plate": "8a1b2c3d4e5f60718293a4b7",
+                "armorColliders": [
+                  "LeftSideChestDown"
+                ],
                 "armorPlateColliders": [],
-                "bluntDamageReduceFromSoftArmor": true,
+                "bluntDamageReduceFromSoftArmor": false,
                 "locked": true
               }
             ]
@@ -219,9 +242,12 @@
                 "Filter": [
                   "8a1b2c3d4e5f60718293a4b6"
                 ],
-                "armorColliders": [],
+                "Plate": "8a1b2c3d4e5f60718293a4b6",
+                "armorColliders": [
+                  "RightSideChestDown"
+                ],
                 "armorPlateColliders": [],
-                "bluntDamageReduceFromSoftArmor": true,
+                "bluntDamageReduceFromSoftArmor": false,
                 "locked": true
               }
             ]
@@ -240,9 +266,13 @@
                 "Filter": [
                   "8a1b2c3d4e5f60718293a4b9"
                 ],
-                "armorColliders": [],
+                "Plate": "8a1b2c3d4e5f60718293a4b9",
+                "armorColliders": [
+                  "NeckFront",
+                  "NeckBack"
+                ],
                 "armorPlateColliders": [],
-                "bluntDamageReduceFromSoftArmor": true,
+                "bluntDamageReduceFromSoftArmor": false,
                 "locked": true
               }
             ]
@@ -251,7 +281,9 @@
           "_mergeSlotWithChildren": true,
           "_proto": "64479fdf9731c8fadc0642c1"
         }
-      ]
+      ],
+      "armorColliders": [],
+      "armorPlateColliders": []
     },
     "locales": {
       "en": {
